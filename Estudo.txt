@@ -23,7 +23,38 @@ Japonês
 
 Categoria letras :
 
-Vogais    :Aあ-Iい-Uう-Eえ-Oお
+Alfabeto :
+
+Wa Ra Ya Ma Ha Na Ta   Sa  Ka A 
+Wo Ri Yu Mi Hi Ni Ti 　Shi Ki I 
+NN Ru Yo Mu Fu Nu Tsu  Su  Ku U 
+   Re    Me He Ne Te   Se  Ke E 
+   Ro    Mo Ho No To   So  Ko O 
+
+わ　ら や　ま　は　な　た　さ　か　あ
+を　り　ゆ　み　ひ　に　ち　し　き　い
+ん　る　よ　む　ふ　ぬ　つ　す　く　う
+　　れ　　　め　へ　ね　て　せ　け　え
+　　ろ　　　も　ほ　の　と　そ　こ　お
+
+Wa
+Wu
+NN
+
+ワ　ラ　ヤ　マ　ハ　ナ　タ　サ　カ　ア
+ウ　リ　ユ　ミ　ヒ　ニ　チ　シ　キ　イ
+ン　ル　ヨ　ム　フ　ヌ　ツ　ス　ク　ウ
+　　レ　　　メ　ヘ　ネ　テ　セ　ケ　エ
+　　ロ　　　モ　ホ　ノ　ト　ソ　コ　オ
+
+あ　か　さ
+た　な　は
+ま　や　ら
+わをんー
+
+Vogais, K, S, T, N, H, M, R, Y, W 
+
+Vogais    :Aあ-Iい-Uう-Eえ-Oお 
 Família K :Kaか-Kiき-Kuく-Keけ-Koこ
 Família S :Saさ-Shiし-Suす-Seせ-Soそ
 Família T :Taた-Tchiち-Tsuつ-Teて-Toと
@@ -32,7 +63,7 @@ Família H :Haは-Hiひ-Fuふ-Heへ-Hoほ
 Família M :Maま-Miみ-Muむ-Meめ-Moも
 Família R :Raら-Riり-Ruる-Reれ-Roろ
 Família Y :Yaや-Yuゆ-Yoよ
-Família W :Waわ-Nん
+Família W :Waわ-WoをーNNん
 
 Família G :Gaが-Giぎ-Guぐ-Geげ-Goご
 Família Z :Zaざ-Jiじ-Zuぜ-Zeぜ-Zoぞ
@@ -41,24 +72,52 @@ Família B :Baば-BiびーBuぶ-Beべ-Boぼ
 Família P :Paた-Piぴ-Puぷ-Peぺ-Poぽ
 Família pequena:Yaや-Yuゆ-Yoよ-Tsuつ
 
+あお azul
+ありがとうu。どういたしまして。Obrigado você, de nada
+いえ lar 
+う corvo-marinho
+えんぴつ lápis
+おさけ interesse
+おちゃ chá
+
+かぜ frio
+かばん bolsa
+きたない sujo
+きっぷ bilhete
+きゅう nove
+きょう hoje
+くもり nublado 
+け cabelo
+こんばんは、じゃあね。Boa noite, até então
+
+さんは Senhor
+し morte
+す vinagre
+せなか Senaka 
+そと Fora
+
 Frases
 
 A
 AMeRiKaShuSshin DeSu > I am from the US
-ARiGaToU DoUITaShiMaShiTe > Thank you.You are welcome > ありがとうu。どういたしまして。
+ARiGaToU DoUITaShiMaShiTe > Thank you.You are welcome
+ありがとうu。どういたしまして。
 
 B
 Berlin > BeRuRiN
 
-C
-ChuugokuJin DeSu > I am Chinese > 
+----C
+-ChuugokuJin DeSu > I am Chinese > 
 中国人です
 -Chuugokujin DeSuKa > Are you Chinese > 
 中国人ですか
--Chuugoku Shusshin DeSu > I come from China > 中国出身です
+-Chuugoku Shusshin DeSu > I come from China
+中国出身です
+-
 
-D
-DeHaSaYoUNaRa > Well then, farewell > では、さようなら
+----D
+-DeHaSaYoUNaRa > Well then, farewell
+では、さようなら
 
 E
 EJiPuTo > katakana
@@ -83,9 +142,11 @@ Mr Honda is a teacher >
 -I am from China > ChuugokuShusshin　Desu > 中国出身　です
 -IGiRiSuJiN DeSu > I am Britsh 
 イギリス人です　- katakana
--IGiRiSu ShuSshin DeSu > I am from the UK > ギリス出身です
+-IGiRiSu ShuSshin DeSu > I am from the UK
+ギリス出身です
+-
 
-K
+----K
 -KoNBaNHa JaAne > Good evening, bye > 
 こんばんは、じゃあね。
 
@@ -318,3 +379,398 @@ Corpo
 Estacoes do Ano
 Números :
 Tempo 
+
+Portugues
+
+Abacate - アボカド (abokado)
+Abacaxi - パイナップル (painappuru)
+Abandonado - 放棄された (hōki sa reta)
+Abandonar - 放棄する (hōki suru)
+Abaixo - 下 (shita)
+Abajur - ライト (raito)
+Abertura - オープニング (ōpuningu)
+Abóbora - カボチャ (kabocha)
+Abrigo - 避難所 (hinanjo)
+Abrir - 開く (hiraku)
+Absorver - 吸収する (kyūshū suru)
+Abundante - 豊富な (hōfu na)
+Academia - アカデミー (akademī)
+Ação - 行動 (kōdō)
+Acalmar - 静める (shizumeru)
+Açúcar - 砂糖 (satō)
+Acessível - アクセス可能 (akusesu kanō)
+Acessório - アクセサリー (akusesarī)
+Aço - 鋼 (hagane)
+Acompanhar - 一緒に行く (issho ni iku)
+Aconchegante - 居心地が良い (igokochi ga ii)
+Acontecer - 起こる (okoru)
+Acorde - アラーム (arāmu)
+Acreditar - 信じる (shinjiru)
+Açude - ダム (damu)
+Adeus - さようなら (sayōnara)
+Adiar - 延期する (enki suru)
+Adiantado - 進んだ (susunda)
+Adiantar - 進む (susumu)
+Adicionar - 追加する (tsuika suru)
+Admirar - 賞賛する (shōsan suru)
+Adolescente - 10代 (jūdai)
+Adotar - 採用する (saiyō suru)
+Adversário - 対戦相手 (taisen aite)
+Advogado - 弁護士 (bengoshi)
+Aéreo - 空気の (kūki no)
+Afastado - 遠く離れた (tōku hanareta)
+Afastar - 遠ざける (tōzakeru)
+Afável - 愛想の良い (aisō no yoi)
+Afago - 撫でる (naderu)
+Afamado - 有名な (yūmei na)
+Afeto - 愛情 (aijō)
+Afetuoso - 愛情深い (aijō-bukai)
+Afrontar - 直面する (chokumen suru)
+Agarrar - 把握する (haaku suru)
+Agendar - スケジュールする (sukejūru suru)
+Agilidade - 敏捷性 (binshōsei)
+Agir - 行動する (kōdō suru)
+Aglomerado - 集合的 (shūgō-tekina)
+Agonia - 苦悶 (kumon)
+Agonizar - 苦しむ (kurushimu)
+Agosto - 8月 (hachigatsu)
+Agrado - 喜び (yorokobi)
+Agrícola - 農業の (nōgyō no)
+Água - 水 (mizu)
+Águia - タカ (taka)
+Aguçar - 研ぐ (togu)
+Aguardar - 待つ (matsu)
+Águia - タカ (taka)
+Agulha - 針 (hari)
+Ah - ああ (ā)
+Ainda - まだ (mada)
+Aipim - ヤム (yamu)
+Ajoelhar - 跪く (hizamazuku)
+Ajudar - 助ける (tasukeru)
+Ajustado - 調整された (chōsei sa reta)
+Ajustar - 調整する (chōsei suru)
+Alameda - アベニュー (abenyū)
+Alarde - 騒々しい (sōzōshii)
+Alarme - アラーム (arāmu)
+Alcachofra - アーティチョーク (ātichōku)
+Alcançar - 届く (todoku)
+Alcance - 範囲 (han'i)
+Álcool - アルコール (arukōru)
+Alegria - 喜び (yorokobi)
+Alegrar - 喜ばせる (yorokobaseru)
+Alegrar-se - 喜ぶ (yorokobu)
+Aleijado - 身体障害者 (shintai shōgai-sha)
+Aleijar - 障害を与える (shōgai o ataeru)
+Aleitar - ミルクをあげる (miruku o ageru)
+Alento - 息吹 (ibuki)
+Alerta - 警戒 (keikai)
+Aletria - アレトリア (aretoria)
+Alga - 海藻 (kaisō)
+Algema - 手錠 (tejō)
+Algemar - 手錠をかける (tejō o kakeru)
+Algo - 何か (nanika)
+Alguém - 誰か (dareka)
+Alguém - 誰か (dareka)
+Alheio - 他人の (tanin no)
+Ali - そこに (soko ni)
+Aliás - ちなみに (chinami ni)
+Alicerce - 基礎 (kiso)
+Alicerçar - 基礎を築く (kiso o kizuku)
+Alimentar - 養う (yashinau)
+Alinhado - 整列した (seiretsu shita)
+Alinhar - 整列させる (seiretsu saseru)
+Aliás - ちなみに (chinami ni)
+Aliança - 結婚指輪 (kekkon yubiwa)
+Alívio - 安心 (anshin)
+Alimentação - 食べ物 (tabemono)
+Alimentar - 養う (yashinau)
+Alimento - 食品 (shokuhin)
+Alisar - 平らにする (tairanisuru)
+Aliviar - 和らげる (yawarageru)
+Alívio - 安堵 (ando)
+Alívio - 安心 (anshin)
+Aliás - ところで (tokorode)
+Almejar - 切望する (setsubō suru)
+Alojamento - 宿泊施設 (shukuhaku shisetsu)
+Alongar - 伸ばす (nobasu)
+Altamente - 非常に (hijō ni)
+Alterar - 変更する (henkō suru)
+Alternar - 交互にする (kōgo ni suru)
+Alteza - 高貴 (kōki)
+Alto - 高い (takai)
+Altura - 高さ (takasa)
+Alugado - レンタルされた (rentaru sa reta)
+Alugar - 貸し出す (kashidasu)
+Aluguel - レンタル (rentaru)
+Alusão - ほのめかし (honomikashi)
+Alvejante - 漂白剤 (hyōhakuzai)
+Alvejar - 狙う (nerau)
+Amadurecer - 熟す (jukusu)
+Amamentar - 授乳する (junyū suru)
+Amargo - 苦い (nigai)
+Amarrado - 縛られた (shibara reta)
+Amarração - 結び目 (musubi me)
+Amarrar - 縛る (shibaru)
+Amauri - アマウリ (amauri)
+Amável - 優しい (yasashii)
+Amazona - アマゾン (amazon)
+Ambicioso - 野心的な (yashinteki na)
+Ambiente - 環境 (kankyō)
+Ambos - 両方 (ryōhō)
+Ambulância - 救急車 (kyūkyūsha)
+Ameaça - 脅威 (kyōi)
+Ameaçador - 脅迫的な (kyōhaku-teki na)
+Ameaçar - 脅す (odokasu)
+Amêndoa - アーモンド (āmondo)
+Ameno - 平和な (heiwa na)
+Amigo - 友達 (tomodachi)
+Amigo - 仲間 (nakama)
+Amizade - 友情 (yūjō)
+Amo - 愛してる (aishiteru)
+Amor - 愛 (ai)
+Amoroso - 愛情深い (aijō-bukai)
+Amparo - 援助 (enjo)
+Ampla - 広い (hiroi)
+Ampla - 広範囲 (kōhan'i)
+Ampla - ワイド (waido)
+
+---Letra A---
+-Adeus
+-Alto
+-Amizade
+-Amor =  O amor é a linguagem universal.
+愛は普遍的な言語です
+(Ai wa fuhen-teki na gengo desu.)
+
+---Letra B---
+-Baixo
+-Beleza = A beleza da natureza é indescritível.
+自然の美しさは言葉では説明できません。 
+(Shizen no utsukushi-sa wa kotoba de wa setsumei dekimasen.)
+-Buraco
+
+---Letra C---
+Calor
+Chuva
+Coragem
+---Letra D---
+Desejo
+Depois
+Esperança
+---Letra F---
+Felicidade
+Fofo
+Frio
+---Letra G---
+Gostoso
+Grande
+Gratição
+Harmonia
+Inocação
+---Letra J---
+Japao
+Justiça
+Kawai
+---Letra L---
+Liberdade
+Lindo
+Longevidade
+---Letra M---
+Manha
+Música
+---Letra N---
+Natureza
+Neve
+---Letra O---
+Oportunidade
+Outono
+---Letra P---
+Paz
+Pequeno
+Personagem 
+Pes
+Prosperidade
+Qualidade
+Respeito
+---Letra S---
+Saúde
+Sol
+---Letra T---
+Trabalho
+Traseira
+União
+---Letra V---
+Verdade
+Vermelho
+Waza
+Xícara
+Yuumei
+Zelo
+
+Japones > Portugues
+
+あお (ao) - Azul
+あか (aka) - Vermelho
+あかるい (akarui) - Brilhante
+ありがとう (arigatou) - Obrigado
+あし (ashi) - Pé
+あした (ashita) - Amanhã
+あそこ (asoko) - Lá
+あたたかい (atatakai) - Quente
+あめ (ame) - Chuva
+あなた (anata) - Você
+
+いえ (ie) - Casa
+いく (iku) - Ir
+いけ (ike) - Lago
+いし (ishi) - Pedra
+いす (isu) - Cadeira
+いち (ichi) - Um
+いちご (ichigo) - Morango
+いたい (itai) - Dolorido
+いま (ima) - Agora
+いぬ (inu) - Cão
+
+うち (uchi) - Casa
+うみ (umi) - Mar
+うら (ura) - Parte de trás
+うさぎ (usagi) - Coelho
+うし (ushi) - Boi
+うた (uta) - Canção
+うれしい (ureshii) - Feliz
+うんどう (undou) - Exercício físico
+うんてん (unten) - Condução, direção
+うるさい (urusai) - Barulhento
+
+えいが (eiga) - Filme
+えき (eki) - Estação (de trem, por exemplo)
+えさ (esa) - Alimentação
+えだ (eda) - Galho
+えん (en) - Iene (moeda japonesa)
+えんじん (enjin) - Motor
+えんそう (ensou) - Performance musical
+えんそく (ensoku) - Passeio escolar
+えんりょ (enryo) - Reserva, moderação
+えんぴつ (enpitsu) - Lápis
+
+おかし (okashi) - Doce
+おくさん (okusān) - Esposa
+おとうと (otōto) - Irmão mais novo
+おとこ (otoko) - Homem
+おとこのこ (otokonoko) - Menino
+おとり (otori) - Isca
+おなか (onaka) - Estômago
+おばさん (obasan) - Tia
+おべんとう (obentou) - Almoço em uma caixa (marmita)
+およぐ (oyogu) - Nadar
+
+かさ (kasa) - Guarda-chuva
+かぜ (kaze) - Vento
+かぞく (kazoku) - Família
+かばん (kaban) - Bolsa, mala
+かわ (kawa) - Rio
+からだ (karada) - Corpo
+かんしゃ (kansha) - Gratidão
+かんじ (kanji) - Caráter chinês, ideograma
+かんじょう (kanjou) - Emoção
+かんぱい (kanpai) - Brinde
+
+Perguntas :
+
+Em japonês, geralmente não há espaços entre as palavras quando se escreve em caracteres japoneses (kanji, hiragana ou katakana). Isso ocorre porque o japonês é uma língua aglutinativa, o que significa que as palavras e partes das palavras se unem para formar frases.
+
+あなたの好きな動物は何ですか？
+(Anata no sukina doubutsu wa nan desu ka?)
+Qual é o seu animal favorito?
+
+"あなた" (anata) significa "você";
+"の" (no) é uma partícula possessiva que indica posse ou associação;
+"好き" (suki) significa "gostar" ou "favorito";
+"な" (na) é uma partícula adjetival;
+"動物" (doubutsu) significa "animal";
+"は" (wa) é uma partícula de tópico;
+"何" (nan) significa "o que";
+"ですか" (desu ka) é uma forma polida da frase interrogativa, literalmente significando "é?".
+
+-Você de gostar animal o que ?
+
+あなたの" (Anata no): "sua" ou "seu" (a partícula の/no indica posse ou associação, então "あなたの" (Anata no) significa "sua" ou "seu").
+"好きな" (sukina): "favorito" ou "gostar" (este é um adjetivo derivado do verbo 好きです (suki desu), que significa "gostar de").
+"動物" (doubutsu): "animal".
+"は" (wa): uma partícula que marca o tópico da frase, neste caso, "動物" (doubutsu), ou seja, "animal".
+"何ですか？" (nan desu ka?): "o que é?" ou "qual é?" (nan significa "o que" e desu ka é uma forma de tornar a frase uma pergunta polida).
+
+"あなたの" (Anata no): "sua" ou "seu" (posse).
+"好きな" (sukina): "favorito" ou "gostar de" (adjetivo).
+"動物" (doubutsu): "animal" (substantivo).
+"は" (wa): partícula de tópico, marcando "動物" (doubutsu), ou seja, "animal".
+"何ですか？" (nan desu ka?): "o que é?" ou "qual é?" (pergunta polida).
+Portanto, a ordem das palavras é: posse (あなたの), adjetivo (好きな), substantivo (動物), partícula de tópico (は), e pergunta polida (何ですか？).
+
+Você gosta de animal, qual é?"
+Qual é o seu animal favorito?
+
+!!! Fale igual índio e faça frases em japonês !!!
+
+あなたの好きな車は何ですか？
+(Anata no sukina kuruma wa nan desu ka?)
+あなたの (Anata no): "sua" ou "seu".
+好きな (sukina): "favorito" ou "gostar de".
+車 (kuruma): "carro".
+は (wa): partícula de tópico.
+何ですか (nan desu ka): "o que é?" ou "qual é?"
+Tradução Literal : Você gosta de carro, qual é ?
+Tradução Correta : Qual é o seu carro favorito?
+
+私は車が好きです。
+(Watashi wa kuruma ga suki desu.)
+Literal : Eu carro gosto
+Correta : Eu gosto de carro
+
+交通が混雑しています。
+(Koutsuu ga konzatsu shiteimasu.)
+Literal : Congestionado está trânsito
+Correta : O trânsito está congestionado 
+
+私の好きな色は青です。
+(Watashi no sukina iro wa ao desu.)
+Literal : Minha favorita azul cor
+Correta : Minha cor favorita é azul
+
+Respostas :
+
+私の好きな動物は猫です。
+(Watashi no sukina doubutsu wa neko desu.)
+Meu animal favorito é o gato
+
+あなたの好きな色は何ですか？
+(Anata no sukina iro wa nan desu ka?)
+Qual é a sua cor favorita?
+
+私の好きな色は青です。
+(Watashi no sukina iro wa ao desu.)
+Minha cor favorita é azul
+
+あなたの好きな季節は何ですか？
+Anata no sukina kisetsu wa nan desu ka?
+Qual é a sua estação favorita?
+
+電車に乗る機会があまりありません。
+(Densha ni noru kikai ga amari arimasen.)
+Eu não ando muito de trem
+
+あなたの好きな食べ物は何ですか？
+Anata no sukina tabemono wa nan desu ka?
+Tradução: Qual é a sua comida favorita?
+
+私の好きな食べ物はご飯です。
+(Watashi no sukina tabemono wa gohan desu.)
+Minha comida favorita é arroz
+
+あなたの趣味は何ですか？
+Anata no shumi wa nan desu ka?
+Qual é o seu hobby?
+
+私が一番好きなことは、PCでゲームをしたり、アニメを観たり、走ることです。
+(Watashi ga ichiban suki na koto wa, PC de gemu o shitari, anime o mitari, hashiru koto desu.)
+O que mais gosto de fazer é jogar no PC, assistir anime e correr
