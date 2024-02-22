@@ -1,11 +1,12 @@
-Expressões
-Frases
-Kanjis
-Leitura
-LetrasHiragana
-LetrasKatakana
-Números
-Palavras
+Indice :
+
+Alfabeto : 22
+Japonês > Português : 77
+Inglês > Japonês : 103
+Frases : 213
+Pronuncia > Inglês : 306
+Categorias : 378
+Português > Japonês 388
 
 Japones
 －１２５　Milhoes
@@ -18,10 +19,6 @@ Japones
 ４６　Letras
 ーKanji　＝　Simbolos
 ーOrdem das vogais > aあ, iい, uう, eえ, oお
-
-Japonês 
-
-Categoria letras :
 
 Alfabeto :
 
@@ -37,20 +34,48 @@ NN Ru Yo Mu Fu Nu Tsu  Su  Ku U
 　　れ　　　め　へ　ね　て　せ　け　え
 　　ろ　　　も　ほ　の　と　そ　こ　お
 
+じゃ
+じ
+じゅ
+じぇ
+じょ
+
 Wa
 Wu
 NN
 
+Katakana
+   
 ワ　ラ　ヤ　マ　ハ　ナ　タ　サ　カ　ア
 ウ　リ　ユ　ミ　ヒ　ニ　チ　シ　キ　イ
 ン　ル　ヨ　ム　フ　ヌ　ツ　ス　ク　ウ
 　　レ　　　メ　ヘ　ネ　テ　セ　ケ　エ
 　　ロ　　　モ　ホ　ノ　ト　ソ　コ　オ
 
+Wa Ra Ya Ma Ha Na Ta   Sa  Ka A 
+Wo Ri Yu Mi Hi Ni Ti 　Shi Ki I 
+NN Ru Yo Mu Fu Nu Tsu  Su  Ku U 
+   Re    Me He Ne Te   Se  Ke E 
+   Ro    Mo Ho No To   So  Ko O 
+
+
 あ　か　さ
 た　な　は
 ま　や　ら
 わをんー
+
+あいうえお
+かきくけこ　がぎぐげご
+さしすせそ　ざじずぜぞ
+
+たちつてと　だぢぢでど
+なにぬねの　ばびぶべぼ
+はひふへほ　ぱぴぷぺぽ
+
+まみむめも　やゆよつ
+や　ゆ　よ
+らりるれろ
+
 
 Vogais, K, S, T, N, H, M, R, Y, W 
 
@@ -66,15 +91,98 @@ Família Y :Yaや-Yuゆ-Yoよ
 Família W :Waわ-WoをーNNん
 
 Família G :Gaが-Giぎ-Guぐ-Geげ-Goご
+
 Família Z :Zaざ-Jiじ-Zuぜ-Zeぜ-Zoぞ
 Família D :Daだ-Jiぢ-Zuぜ-Deで-Doど
 Família B :Baば-BiびーBuぶ-Beべ-Boぼ
 Família P :Paた-Piぴ-Puぷ-Peぺ-Poぽ
 Família pequena:Yaや-Yuゆ-Yoよ-Tsuつ
 
-あお azul
+ドワーフ
+Japonês > Português 
+
+A あ
+あか (aka) - Vermelho
+あかるい (akarui) - Brilhante
+あめ (ame) - Chuva
+あなた (anata) - Você
+あお (ao) - Azul
+ありがとう (arigatou) - Obrigado
+あし (ashi) - Pé
+あした (ashita) - Amanhã
+あそこ (asoko) - Lá
+あたたかい (atatakai) - Quente
 ありがとうu。どういたしまして。Obrigado você, de nada
+
+I い
+いえ (ie) - Casa
+いく (iku) - Ir
+いけ (ike) - Lago
+いし (ishi) - Pedra
+いす (isu) - Cadeira
+いち (ichi) - Um
+いちご (ichigo) - Morango
+いたい (itai) - Dolorido
+いま (ima) - Agora
+いぬ (inu) - Cão
 いえ lar 
+
+ワ　ラ　ヤ　マ　ハ　ナ　タ　サ　カ　ア
+ウ　リ　ユ　ミ　ヒ　ニ　チ　シ　キ　イ
+ン　ル　ヨ　ム　フ　ヌ　ツ　ス　ク　ウ
+　　レ　　　メ　ヘ　ネ　テ　セ　ケ　エ
+　　ロ　　　モ　ホ　ノ　ト　ソ　コ　オ
+
+Wa Ra Ya Ma Ha Na Ta   Sa  Ka A 
+Wo Ri Yu Mi Hi Ni Ti 　Shi Ki I 
+NN Ru Yo Mu Fu Nu Tsu  Su  Ku U 
+   Re    Me He Ne Te   Se  Ke E 
+   Ro    Mo Ho No To   So  Ko O 
+
+Su ス
+
+スイッチ (suitchi) - Interruptor
+
+ストーブ (sutōbu) - Fogão
+ストック (sutokku) - Estojo
+ストーク (sutōku) - Stoke (em inglês)
+ストークオン (sutōku on) - Ligado, em inglês informal
+ストークホールド (sutōkuhōrudo) - Estrangulamento (em luta livre)
+ストークバイストーク (sutōkubaisutōku) - Compra e venda
+ストークブローカー (sutōkuburōkā) - Corretor de valores
+ストークス (sutōkusu) - Stokes (um nome próprio em inglês)
+ストークズ (sutōkuzu) - Strokes (um termo relacionado à pintura ou desenho)
+ストークストレーニング (sutōkusutorēningu) - Treinamento de estocagem
+ストークニュートン (sutōkunyūton) - Stokes (uma unidade de viscosidade)
+ストークペア (sutōkupea) - Par de Stokes (em física de partículas)
+ストークレンジ (sutōkurenji) - Alcance de Stokes (em análise espectral)
+ストーリー (sutōrī) - História
+ストーリーテリング (sutōrīteringu) - Narração de histórias
+ストップ (sutoppu) - Parar
+ストライプ (sutoraipu) - Listra
+ストレス (sutoresu) - Estresse
+
+スープ (suupu) - Sopa
+スーツ (suutsu) - Terno
+スーパー (suupaa) - Supermercado
+スーツケース (suutsukeesu) - Mala de viagem
+スーパーマーケット (suupaamaaketto) - Supermercado
+スーツケース (suutsukeesu) - Mala de viagem
+
+Ri リ
+
+RiN リノ
+リノリウム (rinoriumu) - Linóleo
+リノベーション (rinobēshon) - Renovação
+リノベーションハウス (rinobēshon hausu) - Casa renovada
+リノベーション工事 (rinobēshon kōji) - Trabalhos de renovação
+リノリン (rinorin) - Liner (em inglês, revestimento ou forro)
+リノベーションビジネス (rinobēshon bijinesu) - Negócio de renovação
+リノベーションマンション (rinobēshon manshon) - Apartamento renovado
+リノベーション業者 (rinobēshon gyōsha) - Empreiteira de renovação
+リノベーション市場 (rinobēshon ichiba) - Mercado de renovação
+リノベーション計画 (rinobēshon keikaku) - Plano de renovação
+
 う corvo-marinho
 えんぴつ lápis
 おさけ interesse
@@ -95,6 +203,147 @@ Família pequena:Yaや-Yuゆ-Yoよ-Tsuつ
 す vinagre
 せなか Senaka 
 そと Fora
+
+Inglês > Japonês 
+
+A
+Africa > AFuRiKa
+alcohol = OSaKe おさけ
+Asia > AJiA
+Australia > OOSuToRaria オーストラリア
+
+B
+bag かばん　KabaN
+bank ぎんこう　GiNKoU
+back せなか senaka
+believe = 信じる
+blue = AO あお
+boxed lunch べんとう　BeNToU
+Britain > IGiRiSu
+bye > JaANe
+
+C
+camera > KaMeRa
+Cloudy くもり　KuMoRi
+
+D
+Date of Hear = 年日
+Daytime ひる　HiRu
+dirty = KiTaNaI きたない
+dont = しないでください
+drink = NoMu のめ
+
+E
+Ear みみ　MiMi
+EUA > AMeRiKa
+Europe > YooRoPpa　ヨーロッパ
+excuse me > SuMiMaSeN
+Eye め Me
+
+F
+fermented soybeans なっとう　NaTtoU
+find = 探す
+four = YoN
+France > FuRaNSu
+fruit > KuDaMoNo
+
+G
+goodbye = SaYoUNaRa
+good evening > KoNBaNHa
+good morning = OHaYoU GOZAIMASU
+good night > OYaSuMiNaSaI
+GREEN TEA > OCHA
+
+H
+hello = KoNNiChiHa
+Here you are > DoUZo
+House いえ　IE
+
+I
+I = WaTaShi
+in = で
+it = それ
+Italy > イタリア
+John > ジョン
+
+L
+like = SuKi
+likewise > KoChiRaKoSo
+
+M
+magic = 魔法
+map ちず ChiZu
+manga まんが MaNGa
+Mexico > MeKiShiKo
+Month = 月
+
+N
+never = 一度もない
+nice to meet you > YoRoShiKu
+night = YoRu
+nine きゅう　KyUu
+
+O
+one = ichi
+outside そと　SoTo
+
+P
+pencil えんぴつ　ENPiTsu
+Philippines > FiRiPiN
+please > ONeGaIShiMaSu
+Please excuse me > DoUmoSuMiMaSeN
+
+R
+read = YoMu
+red = akai
+Rome > RooMa ローマ
+Room へや　HeYa
+Russia > ロシア
+
+S
+school がっこう　GaKkoU
+see you later > JaANe
+seven = NaNa
+six = RoKu
+sorry > GoMeN
+sorry > GoMeNNaSaI
+Summer なつ　NaTsu
+Sunny 晴れ　Hare
+sushi = SuShi
+sweet = AMaI
+
+T
+tea おちゃ　Ocha
+telephone でんわ　DeNWa
+tempura てんぷら TeNPuRa
+teriyaki = TeRiYaki
+thank > DoUMo
+thank you > ARIGATOU
+thank You Very Much > ARiGaToUGoZaIMaSu
+thanks > DoUMo
+those = それらの
+three = SaN
+ticket きっぷ　KiPpu
+today きょう　KyOu
+two = Ni		
+vegetable = YaSaI
+
+W
+want = HoShiI
+wear = KiRu
+well > DeHa ou Ja
+Well then, farewell > DeHa, SaYoUNaRa
+white = ShiRo
+who = 誰が
+will = 意思
+wind かぜ　KaZe
+winter ふゆ　FuYu
+
+Y
+year = 年 
+years = 月日
+yes = HaI
+you are welcome > DoUITaShiMaShiTe
 
 Frases
 
@@ -151,6 +400,9 @@ Mr Honda is a teacher >
 こんばんは、じゃあね。
 
 M
+-Mahō o shinjinai hito wa kesshite mahō o mitsukeru koto wa dekinaideshou
+魔法を信じない人は決して魔法を見つけることはできないでしょう
+Those who don't believe in magic will never find it
 -MaRiA DeSu > I am Maria
 マリア です
 -MaRiATo　IIMaSu　My name is Maria > 
@@ -260,115 +512,6 @@ YoMu > read
 YoN
 YoRoShiKu > nice to meet you
 YoRu > night
-
-Vocabulário :
-
-A
-Africa > AFuRiKa
-alcohol = OSaKe おさけ
-Asia > AJiA
-Australia > OOSuToRaria オーストラリア
-B
-bag かばん　KabaN
-bank ぎんこう　GiNKoU
-back せなか senaka
-blue = AO あお
-boxed lunch べんとう　BeNToU
-Britain > IGiRiSu
-bye > JaANe
-C
-camera > KaMeRa
-Cloudy くもり　KuMoRi
-D
-Daytime ひる　HiRu
-dirty = KiTaNaI きたない
-drink = NoMu のめ
-E
-Ear みみ　MiMi
-EUA > AMeRiKa
-Europe > YooRoPpa　ヨーロッパ
-excuse me > SuMiMaSeN
-Eye め Me
-F
-fermented soybeans なっとう　NaTtoU
-four = YoN
-France > FuRaNSu
-fruit > KuDaMoNo
-G
-goodbye = SaYoUNaRa
-good evening > KoNBaNHa
-good morning = OHaYoU GOZAIMASU
-good night > OYaSuMiNaSaI
-GREEN TEA > OCHA
-H
-hello = KoNNiChiHa
-Here you are > DoUZo
-House いえ　IE
-I
-I = WaTaShi
-Italy > イタリア
-John > ジョン
-L
-like = SuKi
-likewise > KoChiRaKoSo
-M
-map ちず ChiZu
-manga まんが MaNGa
-Mexico > MeKiShiKo
-N
-nice to meet you > YoRoShiKu
-night = YoRu
-nine きゅう　KyUu
-O
-one = ichi
-outside そと　SoTo
-P
-pencil えんぴつ　ENPiTsu
-Philippines > FiRiPiN
-please > ONeGaIShiMaSu
-Please excuse me > DoUmoSuMiMaSeN
-R
-read = YoMu
-red = akai
-Rome > RooMa ローマ
-Room へや　HeYa
-Russia > ロシア
-S
-ｓchool がっこう　GaKkoU
-see you later > JaANe
-seven = NaNa
-six = RoKu
-sorry > GoMeN
-sorry > GoMeNNaSaI
-Summer なつ　NaTsu
-Sunny 晴れ　Hare
-sushi = SuShi
-sweet = AMaI
-T
-tea おちゃ　Ocha
-telephone でんわ　DeNWa
-tempura てんぷら TeNPuRa
-teriyaki = TeRiYaki
-thank > DoUMo
-thank you > ARIGATOU
-thank You Very Much > ARiGaToUGoZaIMaSu
-thanks > DoUMo
-three = SaN
-ticket きっぷ　KiPpu
-today きょう　KyOu
-two = Ni		
-vegetable = YaSaI
-W
-want = HoShiI
-wear = KiRu
-well > DeHa ou Ja
-Well then, farewell > DeHa, SaYoUNaRa
-white = ShiRo
-wind かぜ　KaZe
-winter ふゆ　FuYu
-Y
-yes = HaI
-you are welcome > DoUITaShiMaShiTe
 
 Categorias ＞
 
@@ -609,27 +752,9 @@ Zelo
 
 Japones > Portugues
 
-あお (ao) - Azul
-あか (aka) - Vermelho
-あかるい (akarui) - Brilhante
-ありがとう (arigatou) - Obrigado
-あし (ashi) - Pé
-あした (ashita) - Amanhã
-あそこ (asoko) - Lá
-あたたかい (atatakai) - Quente
-あめ (ame) - Chuva
-あなた (anata) - Você
 
-いえ (ie) - Casa
-いく (iku) - Ir
-いけ (ike) - Lago
-いし (ishi) - Pedra
-いす (isu) - Cadeira
-いち (ichi) - Um
-いちご (ichigo) - Morango
-いたい (itai) - Dolorido
-いま (ima) - Agora
-いぬ (inu) - Cão
+
+
 
 うち (uchi) - Casa
 うみ (umi) - Mar
