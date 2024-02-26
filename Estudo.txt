@@ -98,6 +98,38 @@ Família B :Baば-BiびーBuぶ-Beべ-Boぼ
 Família P :Paた-Piぴ-Puぷ-Peぺ-Poぽ
 Família pequena:Yaや-Yuゆ-Yoよ-Tsuつ
 
+Dias da semana :
+
+Nichiyobi = 日曜日　Sunday Domingo
+Getsuyobi = 月曜日 Segunda
+Kaiyobi = 火曜日 Terça
+Suyobi = 水曜日　Wednesday Quarta
+Mokuyobi = 木曜日 Quinta
+Kiiyobi = 金曜日 Sexta
+Doyoubi = 土曜日 Sábado 
+
+Tempo :
+
+Saki Hodo No = Mais cedo 
+Atode = あとで Mais tarde 
+Asa = manhã
+Shogo = Meio-dia 
+Gogo = 午後　tarde
+Yorui = noite
+Mayonaka ^ meia noite
+Bun = 分 minuto
+Toki = hora
+
+Kyo = 居　hoje
+kino = ontem
+Ashita = 明日 Amanhã
+Hiruma = 昼間　Dia
+Shu = 週 semana
+Tsuki = 月　mês
+Toshi = Ano
+
+Byo = びょSegundo 
+
 ドワーフ
 Japonês > Português 
 
@@ -899,3 +931,74 @@ Qual é o seu hobby?
 私が一番好きなことは、PCでゲームをしたり、アニメを観たり、走ることです。
 (Watashi ga ichiban suki na koto wa, PC de gemu o shitari, anime o mitari, hashiru koto desu.)
 O que mais gosto de fazer é jogar no PC, assistir anime e correr
+
+Família (かぞく)
+https://www.japaoemfoco.com/aprender-japones-familia/
+
+Primeiro : Minha família 
+Segundo : De outra pessoa
+
+-Pais ( pai + Mãe ) = 
+両親 / りょうしん(Ryōshin) 
+ご両親 / ごりょうしん(Goryōshin)
+-Pai
+父 / ちち(Chichi)	
+お父さん / おとうさん (Otōsan)
+-Mãe
+母 / はは(Haha)	
+お母さん / おかあさん(Okāsan)
+-Irmão mais velho
+兄 / あに(Ani)	
+お兄さん / おにいさん(Onīsan)
+-Irmã mais velha
+姉 / あね(Ane)	
+お姉さん / おねえさん(Onēsan)
+
+人= homem
+
+Números em Japonês
+https://www.aulasdejapones.com.br/como-sao-os-numeros-em-japones/
+
+一= ichi ( iti ) = um
+二= ni = dois
+三= san ( sahn ) = três
+四= shi ( xi ) = quatro
+五= go ( gô ) = cinco
+六= roku (iô-ku ) = seis
+七= shichi ( xi-ti ) = sete
+八= hachi ( rá-ti ) = oito
+九= kyuu ( kiú ) = nove
+十= juu ( diú ) = dez
+千= mil
+
+Verbos
+
+1 - Terminados em U :
+https://www.japaoemfoco.com/lista-de-verbos-em-japones/
+
+Hanasu (話す) – falar
+Kaku (書く) – escrever
+kiku (聞く) – ouvir
+matsu (待つ) – esperar
+nomu (飲む) – beber
+
+入= entrando
+力= força
+下= abaixo
+上= acima
+口= boca
+土= terra
+夕= tarde
+大= grande
+女= mulher
+子= criança
+小= pequeno
+
+Profissões em Japonês
+https://www.aulasdejapones.com.br/profissoes-em-japones/
+
+Kanjis
+https://skdesu.com/lista-de-kanjis-na-ordem-que-se-aprende-nas-escolas/
+
+Pesquisar Kanjis
+https://jisho.org/search/%E5%B0%8F
