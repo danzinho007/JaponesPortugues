@@ -7,10 +7,13 @@ Tempo > 113 !
 Ordem > 135 !
 Comprimentos > 139 !
 Estações > 159 !
+Casa > 178 !
+Cores > 200 !
 Frases : 213
 Pronuncia > Inglês : 306
 Categorias : 378
 Português > Japonês 388
+Kanji > 1106
 
 Japones
 －１２５　Milhoes
@@ -25,6 +28,25 @@ Japones
 ーOrdem das vogais > aあ, iい, uう, eえ, oお
 
 Alfabeto :
+
+Vogais, K, S, T, N, H, M, R, Y, W 
+
+Vogais    :Aあ-Iい-Uう-Eえ-Oお 
+Família K :Kaか-Kiき-Kuく-Keけ-Koこ
+Família S :Saさ-Shiし-Suす-Seせ-Soそ
+Família T :Taた-Tchiち-Tsuつ-Teて-Toと
+Família N :Naな-Niに-Nuぬ-Neね-Noの
+Família H :Haは-Hiひ-Fuふ-Heへ-Hoほ
+Família M :Maま-Miみ-Muむ-Meめ-Moも
+Família R :Raら-Riり-Ruる-Reれ-Roろ
+Família Y :Yaや-Yuゆ-Yoよ
+Família W :Waわ-WoをーNNん
+Família G :Gaが-Giぎ-Guぐ-Geげ-Goご
+Família Z :Zaざ-Jiじ-Zuぜ-Zeぜ-Zoぞ
+Família D :Daだ-Jiぢ-Zuぜ-Deで-Doど
+Família B :Baば-BiびーBuぶ-Beべ-Boぼ
+Família P :Paた-Piぴ-Puぷ-Peぺ-Poぽ
+Família pequena:Yaや-Yuゆ-Yoよ-Tsuつ
 
 Wa Ra Ya Ma Ha Na Ta   Sa  Ka A 
 Wo Ri Yu Mi Hi Ni Ti 　Shi Ki I 
@@ -80,61 +102,27 @@ NN Ru Yo Mu Fu Nu Tsu  Su  Ku U
 や　ゆ　よ
 らりるれろ
 
+Casa :
 
-Vogais, K, S, T, N, H, M, R, Y, W 
-
-Vogais    :Aあ-Iい-Uう-Eえ-Oお 
-Família K :Kaか-Kiき-Kuく-Keけ-Koこ
-Família S :Saさ-Shiし-Suす-Seせ-Soそ
-Família T :Taた-Tchiち-Tsuつ-Teて-Toと
-Família N :Naな-Niに-Nuぬ-Neね-Noの
-Família H :Haは-Hiひ-Fuふ-Heへ-Hoほ
-Família M :Maま-Miみ-Muむ-Meめ-Moも
-Família R :Raら-Riり-Ruる-Reれ-Roろ
-Família Y :Yaや-Yuゆ-Yoよ
-Família W :Waわ-WoをーNNん
-
-Família G :Gaが-Giぎ-Guぐ-Geげ-Goご
-
-Família Z :Zaざ-Jiじ-Zuぜ-Zeぜ-Zoぞ
-Família D :Daだ-Jiぢ-Zuぜ-Deで-Doど
-Família B :Baば-BiびーBuぶ-Beべ-Boぼ
-Família P :Paた-Piぴ-Puぷ-Peぺ-Poぽ
-Família pequena:Yaや-Yuゆ-Yoよ-Tsuつ
-
-Dias da semana :
-
-Getsuyobi = 月曜日 Segunda
-Kaiyobi = 火曜日 Terça
-Suyobi = 水曜日　Wednesday Quarta
-Mokuyobi = 木曜日 Quinta
-Kiiyobi = 金曜日 Sexta
-Doyoubi = 土曜日 Sábado 
-Nichiyobi = 日曜日　Sunday Domingo
-
-Tempo :
-
-Saki Hodo No = Mais cedo 
-Atode = あとで Mais tarde 
-Asa = manhã
-Shogo = Meio-dia 
-Gogo = 午後　tarde
-Yorui = noite
-Mayonaka ^ meia noite
-Bun = 分 minuto
-Toki = hora
-
-Kyo = 居　hoje
-kino = ontem
-Ashita = 明日 Amanhã
-Hiruma = 昼間　Dia
-Shu = 週 semana
-Tsuki = 月　mês
-Toshi = Ano
-
-Ordem :
-
-Byo = びょSegundo 
+Barukoni = バルコニー Varanda
+Benkyo HeYa = Sala de estudos
+Dainingurumu = Sala de jantar
+Doa = Porta
+Doabeiru = Campainha
+Doanobu = Maçaneta
+Garegi = Garagem
+Ima = Sala 
+Kabe = 壁 Parede
+Kitchin = 台所 Cozinha
+Mado = Janela
+Shinshitsu = Quarto 
+Teien = Jardim
+Tenjo = Teto 
+Uraniwa = ヤード Quintal
+Yane = Telhado
+Yaneura = 屋根裏 Sotão
+Yokushitsu = バスルーム Banheiro
+Yuka = Chão 
 
 Comprimentos :
 
@@ -159,6 +147,46 @@ Sumimasen = Licença
 Iekuso = Bem vindo
 Iia = Oi
 
+Cores :
+
+Aka = Vermelho 
+Akarui = Claro
+Ao = Azul
+Beju = ベージュ Bege
+Chairo = 茶色 Marrom
+Gin iro = Prata 
+Hairo = グレー Cinza
+Kin iro = ゴールデン Dourado
+Kiro = Amarelo
+Kurai = 暗い Escuro
+Kuro = 黒 Preto 
+Midori = Verde
+Nokon = Azul-marinho
+Orenji = Laranja
+Pinku = ピンク Rosa
+Shian = シアン Ciano 
+Shiro = Branco 
+Takoizu = Turquesa
+Urasaki = 紫 Roxo 
+
+Azul-Marinho = ネイビーブルー Nokon
+Bege = ベージュ
+Claro = クリア
+Cinza = Hairo 
+Marrom = Chairo 
+Prata = 銀 Gin iro 
+Rosa = ピンク
+
+Dias da semana :
+
+Getsuyobi = 月曜日 Segunda
+Kaiyobi = 火曜日 Terça
+Suyobi = 水曜日　Wednesday Quarta
+Mokuyobi = 木曜日 Quinta
+Kiiyobi = 金曜日 Sexta
+Doyoubi = 土曜日 Sábado 
+Nichiyobi = 日曜日　Sunday Domingo
+
 Estacoes 
 
 Aki　秋　Outono arvore
@@ -175,7 +203,41 @@ Shinenkai 新年会 Festa de Ano novo
 Natal クリスマス Kurisumasu 
 Pascoa　イースター
 
-ドワーフ
+Ordem :
+
+Byo = びょSegundo 
+
+Primeiro : 初め
+Segundo : 2番
+Terceiro : 三番目
+Quarto : 部屋
+Quinto : 5番目
+Sexto : 6番目
+Sétimo : 7番目
+Oitavo : 第8
+Nono : 9番目
+Décimo : 10番目
+
+Tempo :
+
+Saki Hodo No = Mais cedo 
+Atode = あとで Mais tarde 
+Asa = manhã
+Shogo = Meio-dia 
+Gogo = 午後　tarde
+Yorui = noite
+Mayonaka ^ meia noite
+Bun = 分 minuto
+Toki = hora
+
+Kyo = 居　hoje
+kino = ontem
+Ashita = 明日 Amanhã
+Hiruma = 昼間　Dia
+Shu = 週 semana
+Tsuki = 月　mês
+Toshi = Ano
+
 Japonês > Português 
 
 A あ
@@ -2549,90 +2611,32 @@ broom
 埜
 open country
 
-晝
-daytime
+晝 daytime
 
-將
-commander
-
-專
-specialty
-
-猪
-pig
-
-祥
-good luck
-
-都
-淨
-pure
-
-條
-article
-
-著
-視
-逸
-剩
-leftovers
-
-曾
-once
-
-盜
-thief
-
-爲
-change
-
-惡
-bad
-
-惠
-blessing
-
-萬
-ten thousand
-
-單
-one
-
-煮
-圓
-yen
-
-賓
-搜
-search
-
-搖
-wag
-
-與
-participate in
-
-裝
-dress
-
-奧
-heart
-
-碎
-break
-
-愼
-care
-
-勤
-暑
-傳
-summon
-
-碑
-署
-團
-association
+將 commander
+專 specialty
+猪 pig
+祥 good luck
+都淨 pure
+條 article
+著視逸剩 leftovers
+曾 once
+盜 thief
+爲 change
+惡 bad
+惠 blessing
+萬 ten thousand
+單 one
+煮圓 yen
+賓搜 search
+搖 wag
+與 participate in
+裝 dress
+奧 heart
+碎 break
+愼 care
+勤暑傳 summon
+碑署團 association
 
 Traços :
 
@@ -2680,3 +2684,48 @@ radical:
 送 (okuru) - Enviar
 迅 swift
 迎 welcome
+
+Abertura Cardfight Vanguard
+
+IMEEJI
+Shunkan 
+Kimi
+
+Stand Up!
+Sorezore
+Onaji 
+Taisetsu 
+Soredemo 
+Susumo 
+Michi 
+
+Tatoe 
+Tada
+
+We Can fly
+True Blaze 
+Tamashii to tamashii ka 
+Kirameku mirai 
+When Destiny Calls Nando
+
+Encerramento
+
+Zutto hashi 
+Ima datte 
+Michi 
+Donna 
+IMEEJI 
+
+Unmei 
+Kiseki 
+Shitterunda 
+Te ni 
+
+( Zettai )
+Mai michi kuraimakkusu
+Maneknai 
+Yes 
+Minna de kuraimakkusu 
+Kazemo oitsukenai FURU SUPIIDO 
+Kasanete 
+(Uh, Everybody )
