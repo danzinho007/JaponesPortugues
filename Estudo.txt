@@ -1,14 +1,16 @@
 Indice :
 
 Alfabeto : 22
-Japonês > Português : 77
-Inglês > Japonês : 103
-Tempo > 113 !
+Casa > 178 !         28/02
+Comprimentos > 139 ! 27/02
+Cores > 200 !        28/02
+Estações > 159 !     27/02
+Família 2 > 206 !    29/02
 Ordem > 135 !
-Comprimentos > 139 !
-Estações > 159 !
-Casa > 178 !
-Cores > 200 !
+Quarto > 253 !       29/02
+Tempo > 113 !
+Japonês > Português : 77
+Inglês > Japonês 304 !
 Frases : 213
 Pronuncia > Inglês : 306
 Categorias : 378
@@ -203,6 +205,36 @@ Shinenkai 新年会 Festa de Ano novo
 Natal クリスマス Kurisumasu 
 Pascoa　イースター
 
+Família 2
+
+Giri no Chichi = Sogro 
+Giri no Haha = Sogra 
+Giri no Kyodai = Cunhado
+Giri no Musuko = Genro
+Giri no Musume = Nora 
+Giri no Shimai = Cunhada
+Harachigai no Kyodai = Meio-irmão
+Harachigai no Shimai = Meia-irmã
+Mamamchichi = Padrasto 
+Mamahaha = Madrasta 
+Mamamusuko = Enteado 
+Mamamusume = Enteada
+Suma = Esposa 
+
+Cunhada = 義理の姉妹
+Cunhado = 義理の兄
+Enteada = Mamamusume
+Enteado = 継息子
+Esposa = Suma 妻
+Esposo = Otto 夫
+Genro = 
+Meia-irmã = Harachigai no Shimai 
+Meio-irmão = Harachigai no Kyodai HarachigaINO兄弟
+Nora = 義理の娘
+Padrasto = 継父
+Sogra = 義理の母
+Sogro = Giri no Chichi 義父
+
 Ordem :
 
 Byo = びょSegundo 
@@ -217,6 +249,37 @@ Sétimo : 7番目
 Oitavo : 第8
 Nono : 9番目
 Décimo : 10番目
+
+Quarto 253 :
+
+Beddo = Cama
+Beddosaidoranpu = Abajur
+Beddoshitsu = Lençol de cama
+Eãkondishoningu = Ar condicionado
+Hanga = Cabide
+Heddobodo ( Etôbodo )= Cabeceira
+Makurá = Travesseiro
+Makura kabã = Fronha
+Mattoresu = Colchão
+Mezamashidokei = Despertador
+Mofu = Cobertor
+Naitosutando = Mesa de cabeceira
+Wadorobu = Guarda roupa
+
+Abajur = ランプシェード
+Ar condicionado = Eãkondishoningu 空調
+Cabeceira = Heddobodo ヘッドボード
+Cabide = ハンガー
+Cama = Beddo ベッド
+Cobertor = Mofu 毛布
+Colchão = マットレス
+Despertador =目覚まし時計
+Fronha = Makura kabã 枕カバー
+Guarda roupa = Wadorobu クローゼット
+Lençol de cama = Beddoshitsu ベッドシーツ
+Mesa de cabeceira = ベッドサイドテーブル
+Travesseiro = Makura 枕
+Ventilador = ファン
 
 Tempo :
 
@@ -238,112 +301,7 @@ Shu = 週 semana
 Tsuki = 月　mês
 Toshi = Ano
 
-Japonês > Português 
-
-A あ
-あか (aka) - Vermelho
-あかるい (akarui) - Brilhante
-あめ (ame) - Chuva
-あなた (anata) - Você
-あお (ao) - Azul
-ありがとう (arigatou) - Obrigado
-あし (ashi) - Pé
-あした (ashita) - Amanhã
-あそこ (asoko) - Lá
-あたたかい (atatakai) - Quente
-ありがとうu。どういたしまして。Obrigado você, de nada
-
-I い
-いえ (ie) - Casa
-いく (iku) - Ir
-いけ (ike) - Lago
-いし (ishi) - Pedra
-いす (isu) - Cadeira
-いち (ichi) - Um
-いちご (ichigo) - Morango
-いたい (itai) - Dolorido
-いま (ima) - Agora
-いぬ (inu) - Cão
-いえ lar 
-
-ワ　ラ　ヤ　マ　ハ　ナ　タ　サ　カ　ア
-ウ　リ　ユ　ミ　ヒ　ニ　チ　シ　キ　イ
-ン　ル　ヨ　ム　フ　ヌ　ツ　ス　ク　ウ
-　　レ　　　メ　ヘ　ネ　テ　セ　ケ　エ
-　　ロ　　　モ　ホ　ノ　ト　ソ　コ　オ
-
-Wa Ra Ya Ma Ha Na Ta   Sa  Ka A 
-Wo Ri Yu Mi Hi Ni Ti 　Shi Ki I 
-NN Ru Yo Mu Fu Nu Tsu  Su  Ku U 
-   Re    Me He Ne Te   Se  Ke E 
-   Ro    Mo Ho No To   So  Ko O 
-
-Su ス
-
-スイッチ (suitchi) - Interruptor
-
-ストーブ (sutōbu) - Fogão
-ストック (sutokku) - Estojo
-ストーク (sutōku) - Stoke (em inglês)
-ストークオン (sutōku on) - Ligado, em inglês informal
-ストークホールド (sutōkuhōrudo) - Estrangulamento (em luta livre)
-ストークバイストーク (sutōkubaisutōku) - Compra e venda
-ストークブローカー (sutōkuburōkā) - Corretor de valores
-ストークス (sutōkusu) - Stokes (um nome próprio em inglês)
-ストークズ (sutōkuzu) - Strokes (um termo relacionado à pintura ou desenho)
-ストークストレーニング (sutōkusutorēningu) - Treinamento de estocagem
-ストークニュートン (sutōkunyūton) - Stokes (uma unidade de viscosidade)
-ストークペア (sutōkupea) - Par de Stokes (em física de partículas)
-ストークレンジ (sutōkurenji) - Alcance de Stokes (em análise espectral)
-ストーリー (sutōrī) - História
-ストーリーテリング (sutōrīteringu) - Narração de histórias
-ストップ (sutoppu) - Parar
-ストライプ (sutoraipu) - Listra
-ストレス (sutoresu) - Estresse
-
-スープ (suupu) - Sopa
-スーツ (suutsu) - Terno
-スーパー (suupaa) - Supermercado
-スーツケース (suutsukeesu) - Mala de viagem
-スーパーマーケット (suupaamaaketto) - Supermercado
-スーツケース (suutsukeesu) - Mala de viagem
-
-Ri リ
-
-RiN リノ
-リノリウム (rinoriumu) - Linóleo
-リノベーション (rinobēshon) - Renovação
-リノベーションハウス (rinobēshon hausu) - Casa renovada
-リノベーション工事 (rinobēshon kōji) - Trabalhos de renovação
-リノリン (rinorin) - Liner (em inglês, revestimento ou forro)
-リノベーションビジネス (rinobēshon bijinesu) - Negócio de renovação
-リノベーションマンション (rinobēshon manshon) - Apartamento renovado
-リノベーション業者 (rinobēshon gyōsha) - Empreiteira de renovação
-リノベーション市場 (rinobēshon ichiba) - Mercado de renovação
-リノベーション計画 (rinobēshon keikaku) - Plano de renovação
-
-う corvo-marinho
-えんぴつ lápis
-おさけ interesse
-おちゃ chá
-
-かぜ frio
-かばん bolsa
-きたない sujo
-きっぷ bilhete
-きゅう nove
-きょう hoje
-くもり nublado 
-け cabelo
-こんばんは、じゃあね。Boa noite, até então
-
-さんは Senhor
-し morte
-す vinagre
-せなか Senaka 
-そと Fora
-
-Inglês > Japonês 
+Ingles > Japones 304 
 
 A
 Africa > AFuRiKa
@@ -483,6 +441,133 @@ year = 年
 years = 月日
 yes = HaI
 you are welcome > DoUITaShiMaShiTe
+
+Japonês > Português 
+
+A あ
+あか (aka) - Vermelho
+あかるい (akarui) - Brilhante
+あめ (ame) - Chuva
+あなた (anata) - Você
+あお (ao) - Azul
+ありがとう (arigatou) - Obrigado
+あし (ashi) - Pé
+あした (ashita) - Amanhã
+あそこ (asoko) - Lá
+あたたかい (atatakai) - Quente
+ありがとうu。どういたしまして。Obrigado você, de nada
+
+I い
+いえ (ie) - Casa
+いく (iku) - Ir
+いけ (ike) - Lago
+いし (ishi) - Pedra
+いす (isu) - Cadeira
+いち (ichi) - Um
+いちご (ichigo) - Morango
+いたい (itai) - Dolorido
+いま (ima) - Agora
+いぬ (inu) - Cão
+いえ lar 
+
+わ　ら や　ま　は　な　た　さ　か　あ
+を　り　ゆ　み　ひ　に　ち　し　き　い
+ん　る　よ　む　ふ　ぬ　つ　す　く　う
+　　れ　　　め　へ　ね　て　せ　け　え
+　　ろ　　　も　ほ　の　と　そ　こ　お
+
+U う
+うさぎ (Usagi) - Coelho
+うどん (Udon) - Macarrão japonês
+うまい (Umai) - Delicioso
+うち (Uchi) - Casa
+うみ (Umi) - Mar
+うんてん (Unten) - Dirigir
+うみねこ (Umineko) - Gaivota
+うさぎだいこん (Usagi daikon) - Rabanete japonês
+うえき (Ueki) - Arbusto
+うわさ (Uwasa) - Rumor
+
+ワ　ラ　ヤ　マ　ハ　ナ　タ　サ　カ　ア
+ウ　リ　ユ　ミ　ヒ　ニ　チ　シ　キ　イ
+ン　ル　ヨ　ム　フ　ヌ　ツ　ス　ク　ウ
+　　レ　　　メ　ヘ　ネ　テ　セ　ケ　エ
+　　ロ　　　モ　ホ　ノ　ト　ソ　コ　オ
+
+Wa Ra Ya Ma Ha Na Ta   Sa  Ka A 
+Wo Ri Yu Mi Hi Ni Ti 　Shi Ki I 
+NN Ru Yo Mu Fu Nu Tsu  Su  Ku U 
+   Re    Me He Ne Te   Se  Ke E 
+   Ro    Mo Ho No To   So  Ko O 
+
+Su ス
+
+スイッチ (suitchi) - Interruptor
+
+ストーブ (sutōbu) - Fogão
+ストック (sutokku) - Estojo
+ストーク (sutōku) - Stoke (em inglês)
+ストークオン (sutōku on) - Ligado, em inglês informal
+ストークホールド (sutōkuhōrudo) - Estrangulamento (em luta livre)
+ストークバイストーク (sutōkubaisutōku) - Compra e venda
+ストークブローカー (sutōkuburōkā) - Corretor de valores
+ストークス (sutōkusu) - Stokes (um nome próprio em inglês)
+ストークズ (sutōkuzu) - Strokes (um termo relacionado à pintura ou desenho)
+ストークストレーニング (sutōkusutorēningu) - Treinamento de estocagem
+ストークニュートン (sutōkunyūton) - Stokes (uma unidade de viscosidade)
+ストークペア (sutōkupea) - Par de Stokes (em física de partículas)
+ストークレンジ (sutōkurenji) - Alcance de Stokes (em análise espectral)
+ストーリー (sutōrī) - História
+ストーリーテリング (sutōrīteringu) - Narração de histórias
+ストップ (sutoppu) - Parar
+ストライプ (sutoraipu) - Listra
+ストレス (sutoresu) - Estresse
+
+スープ (suupu) - Sopa
+スーツ (suutsu) - Terno
+スーパー (suupaa) - Supermercado
+スーツケース (suutsukeesu) - Mala de viagem
+スーパーマーケット (suupaamaaketto) - Supermercado
+スーツケース (suutsukeesu) - Mala de viagem
+
+Ri リ
+
+RiN リノ
+リノリウム (rinoriumu) - Linóleo
+リノベーション (rinobēshon) - Renovação
+リノベーションハウス (rinobēshon hausu) - Casa renovada
+リノベーション工事 (rinobēshon kōji) - Trabalhos de renovação
+リノリン (rinorin) - Liner (em inglês, revestimento ou forro)
+リノベーションビジネス (rinobēshon bijinesu) - Negócio de renovação
+リノベーションマンション (rinobēshon manshon) - Apartamento renovado
+リノベーション業者 (rinobēshon gyōsha) - Empreiteira de renovação
+リノベーション市場 (rinobēshon ichiba) - Mercado de renovação
+リノベーション計画 (rinobēshon keikaku) - Plano de renovação
+
+う corvo-marinho
+えんぴつ lápis
+おさけ interesse
+おちゃ chá
+
+かぜ frio
+かばん bolsa
+きたない sujo
+きっぷ bilhete
+きゅう nove
+きょう hoje
+くもり nublado 
+け cabelo
+こんばんは、じゃあね。Boa noite, até então
+
+さんは Senhor
+し morte
+す vinagre
+せなか Senaka 
+そと Fora
+
+Inglês > Japonês 
+
+
 
 Frases
 
@@ -2708,24 +2793,25 @@ Tamashii to tamashii ka
 Kirameku mirai 
 When Destiny Calls Nando
 
-Encerramento
+Encerramento Cardfight
 
-Zutto hashi 
-Ima datte 
-Michi 
-Donna 
-IMEEJI 
+Zutto hashirisuzuketeru
+Ima datte  
+Michi naki 
+Donna toki mo 
+IMEEJI gata watashi 
 
-Unmei 
-Kiseki 
+Unmei wo 
+Kiseki no 
 Shitterunda 
 Te ni 
-
 ( Zettai )
-Mai michi kuraimakkusu
+
+Mai michi kuraimakkusu! Miseru 
 Maneknai 
 Yes 
+
 Minna de kuraimakkusu 
-Kazemo oitsukenai FURU SUPIIDO 
+Kazemo oitsukenai FURU SUPIIDO no seishun nanan 
 Kasanete 
-(Uh, Everybody )
+(Uh, Everybody Stand UP)
