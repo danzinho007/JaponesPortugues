@@ -1,13 +1,21 @@
 Indice :
 
 Alfabeto : 22
+Acessórios           01/02
+Animais 2            01/03
+Automóveis > 107
+Bebidas > 
 Casa > 178 !         28/02
+Comidas > 
 Comprimentos > 139 ! 27/02
 Cores > 200 !        28/02
 Estações > 159 !     27/02
 Família 2 > 206 !    29/02
-Ordem > 135 !
+Frutas >             03/03 JapanLinDuo
+Lavanderia >         02/03
 Quarto > 253 !       29/02
+Numeral Ordinal 
+Sala de Estudos >    02/03
 Tempo > 113 !
 Japonês > Português : 77
 Inglês > Japonês 304 !
@@ -104,6 +112,129 @@ NN Ru Yo Mu Fu Nu Tsu  Su  Ku U
 や　ゆ　よ
 らりるれろ
 
+Acessórios 
+
+Beruto = cinto
+Bini-bo = gorro
+Buresoretto = 
+Butsu = botas
+Foruda = pasta
+Handobaggu = bolsa
+Iaryungou = brincos 
+Kutsu = sapatos 
+Kutsuashita = meias
+Megane = óculos
+Nekureso = colar 
+Saifu = carteira
+Sandaru = sandálias
+Sukafu = cachecol
+Tebukuro = luvas
+Udedokei = Relógio
+Yubiwa = anel 
+
+Anel = リング
+Cachecol = スカーフ
+Carteira = ポートフォリオ
+Gorro = ビーニー 
+Luvas = 手袋 
+Meias = 靴下 
+Pasta = フォルダ
+Pulseira = ブレスレット
+Relógio = 時計 Udedokei
+Sapatos = 靴
+
+Adjetivo :
+
+Atarashi = Novo
+Furui = Velho
+Futoi = Gordo
+Kanashi = Triste
+Kantana = Fácil
+Kawaita = Seco 
+Nurete iru = Molhado
+Oki = Grande
+Sairyo = Melhor
+Seiketsuna = Limpo
+Takai = Caro
+U-soto = Pior
+Yasete iru = Magro
+Yasui = Barato
+Yoi = Bom
+
+Bom = 良い Yoi
+Caro = 親愛なる Shinairau
+Difícil = 難しい Muzukashi
+Feio = 醜い
+Feliz = ハッピー
+Gordo = 脂肪
+Limpo = 
+Magro = Yasete iru
+Melhor = 
+Molhado = 濡れた Nurete iru
+Novo = 
+Pequeno = 小さい Chisai
+Ruim = 悪い
+Seco = ドライ
+Triste = 悲しい Kanashi
+Velho = 古い Furui
+
+Animais 2 
+
+Hebi = cobra
+Hitsuji (itsuji) = ovelha
+Jaga = onça
+Kaba = hipopótamo
+Kaeru = sapo
+Kangaru = canguru
+Kitsune = raposa
+Komori = morcego
+Musu = alce
+Ôkami = lobo
+Risu = esquilo
+Tanuki = guaxinim
+Usagi (usagui)= coelho
+Wani (uani) = crocodilo 
+
+Crocodilo = 
+Esquilo = 
+Guaxinim =
+Hipopótamo = 
+Lobo = 
+Onça =  
+Sapo = 
+
+Automóveis :
+
+Kyūkyūsha = 救急車 Ambulância
+
+Bebidas :
+
+Biru = Cerveja
+Eiyo dorinku = Bebida energética
+Gyunyu = Leite
+Hottochokoreito = Chocolate quente
+Jusu = Suco
+Kohi = Café
+Mirukusheiku = Milkshake
+Mizu = Água
+Ocha = Chá
+Remonedo = 
+Soda = Refrigerante
+Wain = Vinho
+
+Água = 水
+Bebida energética = 栄養ドリンク
+Café = コーヒー Kohi
+Cerveja = ビール
+Chá = お茶 Ocha
+Chocolate quente = ホットチョコレート Hottochokoreito
+Leite = 牛乳 Gyunyu
+Limonada = レモネード Remonedo
+Milkshake = ミルクセーキ
+Refrigerante = 冷蔵庫
+Suco = ジュース Jusu
+Vinho = ワイン Wain
+
 Casa :
 
 Barukoni = バルコニー Varanda
@@ -125,6 +256,38 @@ Yane = Telhado
 Yaneura = 屋根裏 Sotão
 Yokushitsu = バスルーム Banheiro
 Yuka = Chão 
+
+Comidas :
+
+Bigan = Vegano
+Choshoku = Café da manhã
+Furaidopoteto = Batatas fritas
+Mame = Feijão
+Massupoteto = Purê de batata
+O sushi = Sushi
+Piza = Pizza 
+Sandoitchi = Sanduiche
+Sarada = 
+Shiriaruba = Barra de cereal
+Sunakku = Lanche
+Supu = Sopa
+Yushoku = Jantar
+
+Almoço = 昼食
+Arroz = 米＝
+Batatas fritas = チップス Furaidopoteto
+Barra de cereal = シリアルバー
+Cachorro quente = ホットドッグ
+Café da manhã = 朝食
+Feijão = 豆 Mame
+Lanche = スナック Sunakku
+Purê de batata = マッシュポテト Massupoteto
+Salada = サラダ
+Sanduiche = サンドイッチ Sandoitchi
+Sopa = スープ
+Sushi = 寿司
+Vegano = ビーガン
+Vegetariano = ベジタリアン
 
 Comprimentos :
 
@@ -205,6 +368,22 @@ Shinenkai 新年会 Festa de Ano novo
 Natal クリスマス Kurisumasu 
 Pascoa　イースター
 
+Família 
+
+avó = sobo
+avÔ = sofu
+bebê = akachan
+gêmeos = futago
+irmã maior = ane
+irmão maior = ani
+mãe = okasan
+menina = onnanoko
+menino = otokono ko
+pai = otosan
+pais = ryoshin
+tia = obasan
+tio = ojisan
+
 Família 2
 
 Giri no Chichi = Sogro 
@@ -235,7 +414,75 @@ Padrasto = 継父
 Sogra = 義理の母
 Sogro = Giri no Chichi 義父
 
-Ordem :
+Frutas :
+
+Budo = Uva
+Momo = Pêssego
+Raimu = Limão 
+Razuberi = Framboesa
+Ringo = Maçã
+Sakuranbo = Cereja
+Suika = Melância
+Ume = Ameixa 
+
+Abacate = アボカド Abokado
+Ameixa = Ume 
+Cereja = さくらんぼ Sakuranbo
+Framboesa = ラズベリー Razuberi
+Laranja = オレンジ Orenji
+Limão = レモン Raimu
+Limão Siciliano = シチリア産レモン Remon
+Maçã = ゴミ Ringo
+Melância = スイカ Suika
+Morango = いちご Ichigo
+Pêssego = 桃 Momo
+Toranja = グレープフルーツ Gurepufurutsu
+Uva = ぶどう / 葡萄 Budo
+
+Lavanderia :
+
+Airon = Ferro de roupa
+Baketsu = Balde
+Chiri tori = Pá de lixo
+Gomibako = Lata de Lixo
+Gomu zo kin = Rodo
+Kaidan = Escada
+Hoki = Vassoura
+Puranjã = Desentupidor
+Sentakuki = Máquina de Lavar roupa
+Sentakuyosenzai = Detergente para roupa
+Zojiki = Aspirador de pó
+
+Aspirador de pó = 掃除機 Zojiki
+Balde = 
+Desentupidor = 
+Detergente para roupa = 
+Ferro = 
+Lata de Lixo = ごみ箱
+Máquina de lavar roupa = 洗濯機
+Rodo = スキージ Gomu zo kin
+Vassoura = ほうき
+
+Massas :
+
+Chizu-iri passuta = Macarrão com queijo
+Kaneroni = Canelone
+Pasuta = Macarrão
+Rabiori = Ravióli
+Razania = Lasanha
+Supagetti = Espaguete
+Tariaterre = Talharim
+
+Canelone = カネロニ Kaneroni
+Espaguete = スパゲッティ Supagetti
+Lasanha = ラザニア Razania
+Macarrão = 麺
+Macarrão com queijo = チーズ入りパスタ
+Nhoque = ニョッキ
+Ravióli = ラビオリNyokki
+Talharim = 麺 Tariaterre
+
+Numeral Ordinal :
 
 Byo = びょSegundo 
 
@@ -249,6 +496,91 @@ Sétimo : 7番目
 Oitavo : 第8
 Nono : 9番目
 Décimo : 10番目
+
+1 até 10
+https://aikido.com.br/como-contar-ate-10-em-japones/
+
+1 até 1000
+https://www.aulasdejapones.com.br/como-sao-os-numeros-em-japones/
+
+1 até 1000
+https://www.berlitz.com/pt-br/blog/numeros-em-japones
+
+https://preply.com/pt/blog/aprenda-os-numeros-em-japones-contar-de-1-a-100/
+
+Números = 
+
+-Ichi = 一 1
+Ju ichi = 十一 11
+
+-Ni = 二 2
+-San = 三 3
+-Shi / Yon = 四 4
+Hyaku Juushi = 百十四 114
+
+-Go = 五 5
+Hyakujuugo = 百十五 115
+
+-Roku = 六 6
+-Shichi / Nana = 七 7
+Junana = 十七 17
+
+-Hachi = 八 8
+Juuhachi = 18
+
+-Kyu = 九 9
+Nijukyu = 二十九 29
+
+-Ju = 十 10
+Nijuu = 二十う 20
+Sanjyuu = 三十 30
+Yonjyuu = 四十 40
+Gojyuu = 五十 50
+Rokujyuu = 六十 60
+Nanajyuu = 七十 70
+Hachijyuu = 八十 80
+Kyuu-jyuu = 九十 90
+
+Juusan = 十三 13
+Juushi = 十四 14
+Juukyuu = 十九 19
+Ni-juu go = 二十五 25
+Hyaku = 百 100
+Gohyaku = 五百 500
+Sen = 千 1000
+Hyaku man = 百万 1 Milhão
+Ju Oku = 十億 1 Bilhão
+Chou = 兆 1 Trilhão 
+
+Pronomes :
+
+Anata = Você 
+Anata no = Seu
+Anata tachi = Vocês
+Kanjora = 
+Kanojo = 
+Kanojo no = Dela
+Kanojo ra = Elas
+Kare = 
+Kareno = Dele
+Karera = Eles
+Watashi = Eu
+Watashi no = Meu
+Watashitachi = Nós
+Watashitachi no = Nosso 
+
+Dela = 彼女 Kanojo no 
+Dele = 彼の Kare no
+Ela = 彼女 Kanojo
+Elas = Kanojora
+Ele = 彼 Kare
+Eles = Karera
+Eu = 私 Watashi
+Meu = 私の Watashi no
+Nós = 私たち Watashitachi
+Nosso = 私たちの Watashitachi no
+Você =  あなた Anata
+Vocês = あなた Anata tachi
 
 Quarto 253 :
 
@@ -280,6 +612,71 @@ Lençol de cama = Beddoshitsu ベッドシーツ
 Mesa de cabeceira = ベッドサイドテーブル
 Travesseiro = Makura 枕
 Ventilador = ファン
+
+Sala de estudos :
+
+Chizu = mapa 
+Efude = pincel 
+Enpitsu = lápis
+Geitadenwa = celular
+Hasami = tesoura 
+Hikidashi = 
+Hotchikisu = grampeador
+Inku = tinta
+Jõgi =  régua
+Keshigomu = borracha
+Kibõdo = teclado  
+Konpyuta = computador 
+Nori = pasta
+Pen = caneta
+Purintã = impressora
+Ryukkusakku (riukusaku)= mochila 
+Tsukue = escrivaninha
+Sukurin = tela 
+
+Borracha = ゴム Keshigomu
+Calculadora = 
+Calendário = 
+Caneta = 
+Computador = 
+Escrivaninha = デスク
+Gaveta = 引き出し 
+Grampeador = ホッチキス Hotchikisu
+Impressora = 
+Livro = 本 Hon
+Mochila = バックパック Ryukkusakku
+Pasta = フォルダ Nori
+Pincel = ブラシ Efude
+Régua = 定規 Jõgi
+Tinta = インク
+
+Salada de Frutas 
+
+Aisukurimu = Sorvete
+Aisukyandi = Picolé
+Chizukei = Chesskake
+Chokoreito = 
+Donatsu = Rosquinha
+Furutsusarada = 
+Keki = Bolo
+Kukki = Biscoito
+Mashumaro = Mashmallow
+Pai = Torta
+Roripopu = Pirulito
+Suitsu = Doces
+Zeri = Gelatina
+
+Biscoito = クッキー Kukki
+Bolo = ケーキ Keki
+Chesskake = チーズケーキ Chizukeki
+Chocolate = チョコレート Chokoreto
+Doces = Suitsu / あめ Ame
+Gelatina = Zeri / ゼラチン Zerachin
+Picolé = アイスキャンデー Aisukyandi
+Pirulito = ロリポップ Roripoppu
+Salada de Frutas = フルーツサラダ Furutsusarada
+Sorvete = アイスクリーム Aisukurimu
+Torta = パイ Pai
 
 Tempo :
 
@@ -665,7 +1062,7 @@ Oyashirazu = Wisdom Teet
 Shishûbyõ = Gum disease
 Tsumemono = Filling
 
-Pronuncia > ingles
+Romanji > ingles
 
 AMaI
 BeNToU > boxed lunch
@@ -1198,7 +1595,7 @@ https://jisho.org/search/%E5%B0%8F
 Grade 1 / Grau 1
 https://www.romajidesu.com/kanji/grade:1
 一 one um
-力 power força
+力 power força OK 
 二 two dois
 入 enter entrar 
 九 nine nove
@@ -1210,27 +1607,27 @@ https://www.romajidesu.com/kanji/grade:1
 山 mountain montanha
 女 woman mulher
 千 thousand vinte
-川 stream ao vivo
+川 stream ?
 小 little pequeno
 子 child criança
 口 mouth boca
-上 above acima
+上 above acima OK
 夕 evening tarde
-下 below abaixo
-大 large largo
+下 below abaixo OK
+大 large / tree + largo / árvore
 土 soil sol
 五 five cinco
 中 in ?
-日 day dia
+日 day / sunday + dia / Domingo
 六 six seis
-木 tree árvore
+木 tree árvore OK
 円 circle círculo
 文 sentence sentença
 手 hand mão
 王 king rei 
-水 water água
+水 water água OK
 天 heavens céu
-月 month mês
+月 month / moon + mês / lua 
 火 fire fogo
 犬 dog cachorro
 
@@ -1246,12 +1643,12 @@ https://www.romajidesu.com/kanji/grade:2
 目 eye
 左 left
 白 white
-田 rice field
+田 rice field + arrozal 
 正 correct
-出 exit
+出 exit + Saída
 生 life
 休 rest
-先 before
+先 before = antes 
 竹 bamboo
 百 hundred
 虫 insect
@@ -1260,7 +1657,7 @@ https://www.romajidesu.com/kanji/grade:2
 名 name
 耳 ear
 早 early
-年 year
+年 year = Ano
 気 spirit
 赤 red
 男 male
@@ -1271,7 +1668,7 @@ https://www.romajidesu.com/kanji/grade:2
 村 village
 花 flower
 見 see
-青 blue
+青 blue = azul 
 林 grove
 学 study
 雨 rain
@@ -1368,92 +1765,36 @@ Grade 3 / Grau 3
 
 Tips: joujou characters (Kanji characters to be learned at schools in Japan) are highlighted.
 Also note that the English meaning under each Kanji is just one of many other possible senses.
-士
-gentleman
 
-氏
-family name
-
-不
-negative
-
-夫
-husband
-
-辺
-environs
-
-欠
-lack
-
-札
-tag
-
-以
-by means of
-
-司
-director
-
-史
-history
-
-必
-invariably
-
-末
-end
-
-令
-orders
-
-功
-achievement
-
-未
-un-
-
-民
-people
-
-付
-adhere
-
-失
-lose
-
-包
-wrap
-
-加
-add
-
-灯
-lamp
-
-共
-together
-
-各
-each
-
-衣
-garment
-
-仲
-go-between
-
-好
-fond
-
-印
-stamp
-
-兆
-portent
-
-老
-old man
+士 gentleman
+氏 family name
+不 negative
+夫 husband
+辺 environs
+欠 lack
+札 tag
+以 by means of
+司 director
+史 history
+必 invariably
+末 end
+令 orders
+功 achievement
+未 un-
+民 people
+付 adhere
+失 lose
+包 wrap
+加 add
+灯 lamp
+共 together
+各 each
+衣 garment
+仲 go-between
+好 fond
+印 stamp
+兆 portent
+老 old man
 
 争
 contend
@@ -1497,8 +1838,7 @@ labor
 完
 perfect
 
-低
-lower
+低 lower + baixa
 
 告
 revelation
@@ -1766,8 +2106,7 @@ ticket
 制
 system
 
-河
-river
+河 river + rio 
 
 性
 sex
@@ -2337,6 +2676,8 @@ delusion
 伏
 prostrated
 
+倒 overthrow / fall + derrubar / cair 
+
 Search Kanji for Grade 9
 Tips: joujou characters (Kanji characters to be learned at schools in Japan) are highlighted.
 Also note that the English meaning under each Kanji is just one of many other possible senses.
@@ -2617,84 +2958,49 @@ come
 拔
 extract
 
-社
-突
-拜
-worship
+社突拜 worship
 
-者
-恆
-constant
+者恆 constant
 
-盃
-glass
+盃 glass
 
-侮
-勉
-祉
-祈
-臭
-凉
-nice and cool
+侮勉祉祈臭凉 nice and cool
 
-俱
-all
+俱 all
 
-眞
-truth
+眞 truth
 
-狹
-narrow
+狹 narrow
 
-祕
-mysterious
+祕 mysterious
 
-乘
-power
+乘 power
 
-氣
-spirit
+氣 spirit
 
-神
-spirit
+神 spirit
 
-峽
-gorge
+峽 gorge
 
-峯
-peak
+峯 peak
 
-悔
-敏
-海
-祖
-祝
-圈
-sphere
+悔敏海祖祝圈 sphere
 
-國
-country
+國 country
 
-帶
-belt
+帶 belt
 
-陷
-fall into
+陷 fall into
 
-從
-from
+從 from
 
-敍
-express
+敍 express
 
-冨
-enrich
+冨 enrich
 
-莊
-broom
+莊 broom
 
-埜
-open country
+埜 open country
 
 晝 daytime
 
@@ -2772,20 +3078,20 @@ radical:
 
 Abertura Cardfight Vanguard
 
-IMEEJI
+IMEEJI ga kasanaru 
 Shunkan 
-Kimi
+Kimi mo shiteiru 
 
 Stand Up!
-Sorezore
+Sorezore chigau
 Onaji 
 Taisetsu 
-Soredemo 
+Soredemo kizuna ga oko no aru 
 Susumo 
-Michi 
+Michi no ryoukiki 
 
 Tatoe 
-Tada
+Tada jibun rashiku 
 
 We Can fly
 True Blaze 
@@ -2815,3 +3121,24 @@ Minna de kuraimakkusu
 Kazemo oitsukenai FURU SUPIIDO no seishun nanan 
 Kasanete 
 (Uh, Everybody Stand UP)
+
+Abertura 
+
+
+
+Encarramento 
+
+Nodo ga kawaite 
+Hibi wo 
+(Hurry UP)
+
+BE caught
+
+Just 
+Boku to boku 
+Nisemono 
+
+Kochira 
+Are you 
+... yes 
+Jya ... sorede 
