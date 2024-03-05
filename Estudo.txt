@@ -203,6 +203,42 @@ Lobo =
 Onça =  
 Sapo = 
 
+Animais Aquáticos :
+
+Ashika = Foca
+Ebi = エビ Camarão 
+Ei = Arraia 
+Hitode = ヒトデ Estrela-do-mar
+Iruka = イルカ Golfinho
+Kaki = カキ Ostra
+Kame = カメ Tartaruga
+Kani = カニ Caranguejo
+Kujira = 鯨 Baleia
+Kurage (Kurague) = クラゲ Água-viva
+Manta = マンタ Arraia
+Robustã = ロブスター Lagosta
+Sakana = 魚 Peixe
+Same = サメ Tubarão
+Shiru = シール Foca ( ? )
+Tako = タコ Polvo
+Tatsunotoshigo = タツノオトシゴ Cavalo-marinho
+
+Água-viva = クラゲ Kurage (Kurague)
+Arraia = Ei / マンタ Manta
+Baleia = 鯨 Kujira
+Camarão = エビ Ebi
+Caranguejo = カニ Kani
+Cavalo-marinho = タツノオトシゴ Tatsunotoshigo
+Estrela-do-mar = ヒトデ Hitode
+Foca = Ashika / シール Shiru
+Golfinho = イルカ Iruka
+Lagosta = ロブスター Robustã
+Ostra = カキ Kaki
+Peixe = 魚 Sakana
+Polvo = タコ Tako
+Tartaruga = カメ Kame
+Tubarão = サメ Same
+
 Automóveis :
 
 Kyūkyūsha = 救急車 Ambulância
@@ -368,21 +404,40 @@ Shinenkai 新年会 Festa de Ano novo
 Natal クリスマス Kurisumasu 
 Pascoa　イースター
 
-Família 
+Família 1
 
-avó = sobo
-avÔ = sofu
+Ane = 妹 Irmã
+Itoko = いとこ Primo
+Mamomusume = 孫娘 Neta
+Musuko = 息子 Filho 
+Musume = Filha
+Obasan = 
+Oi = 甥 Sobrinho
+Ojisan = 
+
+avó = Obasan / sobo ( ? )
+Avô = Ojisan / sofu ( ? )
 bebê = akachan
+Filha = 娘 Musume
+Filho = 息子 Musuko 
 gêmeos = futago
+Irmã = Ane
 irmã maior = ane
-irmão maior = ani
-mãe = okasan
+irmão = ani / 兄弟 ( ? ) 
+irmão maior = ani ( ? )
+mãe = 母親 okasan
 menina = onnanoko
 menino = otokono ko
+Neta = 孫娘 Mamomusume
+Neto = 孫 Mamosuko
+Pai = 父親 Otosan
+Primo = いとこ Itoko 
+Sobrinha = 姪 mei
+Sobrinho = 甥 Oi
 pai = otosan
 pais = ryoshin
-tia = obasan
-tio = ojisan
+tia = 叔母 Oba / obasan
+tio = 叔父 Oji / ojisan
 
 Família 2
 
