@@ -112,6 +112,37 @@ NN Ru Yo Mu Fu Nu Tsu  Su  Ku U
 や　ゆ　よ
 らりるれろ
 
+03 = 参 San
+04 = 四 Yon
+13 = 十三 Ju san
+21 = 二十一
+27 = 弐拾七 Nijunana
+29 = 二十九 Nijukyu
+40 = 四十 Yonjyuu
+115 = 百拾五 Hyaku ju go
+5000 = 五千 Gosen
+Amarelo = Kiiro 
+Azul-Marinho = 深青 Nokon ( Erro¹ )
+Bege = Beju
+Cinza = 灰色 Haiiro
+Com certeza = もちろん Mochiron
+Dourado = 金色 Kin-iro
+Elas = 彼女ら Kanojora
+Eles = Karera
+Escuro = 暗い Kurai
+Eu = 私 Watashi
+Eu não sei = Wakarimasen
+Marrom = Chairo
+Não = いいえ Iie
+Neta = 孫娘 Magomusume
+Rosa = ピンク Pinku
+Roxo = 紫 Murasaki 
+Serra ノコ Noko
+Tia = 叔母 Oba
+Você =  あなた Anata
+
+¹Tradução é Azul profundo
+
 Acessórios 
 
 Beruto = cinto
@@ -348,6 +379,10 @@ Sumimasen = Licença
 Iekuso = Bem vindo
 Iia = Oi
 
+Cores Sites :
+
+https://www.aulasdejapones.com.br/cores-em-japones/
+
 Cores :
 
 Aka = Vermelho 
@@ -537,6 +572,27 @@ Nhoque = ニョッキ
 Ravióli = ラビオリNyokki
 Talharim = 麺 Tariaterre
 
+Meses :
+
+hachigatsu 八月 = Agosto
+kugatsu 九月 = Setembro
+nigatsu 二月 = Fevereiro
+sangatsu 三月 = Março
+shigatsu 四月 = Abril
+
+Janeiro = 一月 ichigatsu
+Fevereiro = 二月 nigatsu
+Março = 三月 sangatsu
+Abril = 四月 shigatsu
+Maio = 五月 gogatsu
+Junho = 六月 rokugatsu
+Julho = 七月 shichigatsu
+Agosto = 八月 hachigatsu
+Setembro = 九月 Kugatsu 
+Outubro = 十月 jūgatsu
+Novembro = 十一月 jūichigatsu
+Dezembro = 十二月 jūnigatsu
+
 Numeral Ordinal :
 
 Byo = びょSegundo 
@@ -561,7 +617,11 @@ https://www.aulasdejapones.com.br/como-sao-os-numeros-em-japones/
 1 até 1000
 https://www.berlitz.com/pt-br/blog/numeros-em-japones
 
+Melhor
+https://www.lexisrex.com/N%C3%BAmeros-em-Japon%C3%AAs/27
+
 https://preply.com/pt/blog/aprenda-os-numeros-em-japones-contar-de-1-a-100/
+
 
 Números = 
 
@@ -636,6 +696,39 @@ Nós = 私たち Watashitachi
 Nosso = 私たちの Watashitachi no
 Você =  あなた Anata
 Vocês = あなた Anata tachi
+
+Pronomes 2
+
+Dare = Quem
+Dareka = Alguém
+Daremo = Ninguém
+Dokode = Onde
+Dono yo ni = Como
+Fukusu = Diversos
+Ikuradesu ka = Quanto
+Itsu = Quando
+Min na = Todos
+Nani = O que ? 
+Nanika = 
+Naze ka = Por que
+Subete = 
+Sukoshi = Pouco
+
+Algo = 何か Nanika
+Alguém = 誰か Dareka
+Como = として To shite
+Diversos = 
+Muito = とても Totemo
+Ninguém = Dare mo
+Onde = どこ Doko / Dokode
+Por que = なぜ Naze
+Pouco = 少し Sukoshi
+Qualquer coisa = 何でも Nan demo
+Quando = いつ Itsu
+Quanto = いくら Ikuradesu ka
+Quem = 誰 Dare 
+Todos = Min na
+Tudo = 全て Subete
 
 Quarto 253 :
 
