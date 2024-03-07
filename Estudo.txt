@@ -553,6 +553,67 @@ Máquina de lavar roupa = 洗濯機
 Rodo = スキージ Gomu zo kin
 Vassoura = ほうき
 
+Lugares :
+
+Bekari = Padaria
+Bychin = Praia
+Byuin = Hospital
+Daigaku = Universidade
+Egakan = Cinema
+Gako = Escola
+Gasorinsutando = Posto de gasolina
+Ginko = Banco
+Hakaba = Cemitério
+Hakubutsukan = 博物館 Museu
+Hiroba = Praça
+Hoteru = Hotel
+Ie = Casa
+Jimu = Academia
+Keisatsusho = Delegacia
+Kissaten = 
+Koen = 公園 Parque
+Kojo = Fábrica
+Kyokai = Igreja
+Osku = Mesquita
+Oteru = Hotel
+Sakaba = Bar
+Shiro = Castelo
+Shoten = 
+Shiyakusho = Prefeitura
+Tatemono = 建物 Prédio
+Toshokan = Biblioteca
+Yakkyoku = Farmácia
+
+Academia = Jimu
+Aeroporto = 空港 Kuko
+Banco = 銀行 Ginko
+Bar = パブ Pabu
+Biblioteca = 図書館 Toshokan
+Casa = Ie
+Castelo = Shiro
+Cemitério = お墓 Hakaba
+Cinema = 映画館 Egakan
+Delegacia = 警察署 Keisatsusho
+Escola = 学校 Gako
+Fábrica = 工場 Kojo
+Farmácia = 薬局 Yakkyouku
+Hospital = 病院 Byoin
+Hotel = ホテル Hoteru
+Igreja = 教会 Kyokai
+Livraria = 本屋 Honya
+Mesquita = Osku
+Museu = 博物館 Haubutsukan
+Padaria = ベーカリー Bekari
+Parque =公園 Koen
+Ponte = 橋 Hashi
+Posto de gasolina = ガソリンスタンド Gasorinsutando
+Praia = ビーチ Bychin
+Prédio = 建物 Tatemono
+Prefeitura = 市役所 Shiyakusho
+Supermercado =  スーパーマーケットSupamaketto
+Universidade = 大学 Daigaku
+Zoológico = 動物園 Dobu-tsuen
+
 Massas :
 
 Chizu-iri passuta = Macarrão com queijo
@@ -846,6 +907,39 @@ Shu = 週 semana
 Tsuki = 月　mês
 Toshi = Ano
 
+Transportes 
+
+Basutei / バス停 = Ponto de ônibus
+Jitensha / 自転車 = Bicicleta 
+Shinkansen / 新幹線 = Trem-bala
+Takushi = Táxi 
+
+Ambulância = 救急車 Kyukyusha
+Avião = 飛行機 Hikoki
+Balão = バルーン Barun
+Balão de ar quente = 熱気球 Nekkikyu
+Barco = ボート Bôto
+Bicicleta = 自転車 Jitensha
+Caminhão = トラック Torakku
+Carro = 車 Kuruma
+Carro alugado = レンタカー Rentaka
+Estação de metrô = 地下鉄駅 Chikatetsu-eki
+Foguete = ロケット Roketto
+Helicóptero = ヘリコプター Herikoputa
+Iate = ヨット Yotto
+Jato = ジェット Jettoki
+Lancha = スピードボート Supidoboto
+Metrô = 地下鉄 Chikatetsu
+Motocicleta = オートバイ Otobai
+Nave Espacial = 宇宙船 Uchusen
+Navio = 船 Fune
+Ônibus = バス Basu
+Ponto de ônibus = バス停 Basutei
+Táxi = タクシー Takushi
+Trem = 電車 Densha
+Trem-bala = 新幹線 Shinkansen
+
+--------------------------------------------------------------------------------------
 Ingles > Japones 304 
 
 A
