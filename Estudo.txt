@@ -141,8 +141,45 @@ Serra ノコ Noko
 Tia = 叔母 Oba
 Você =  あなた Anata
 
+Revisão 2 :
+
+Dia = 昼間 Hiruma
+Diversos = Fukusu
+Mulheres = Josei-tachi
+Nora = 義理の娘 Giri no musume
+Onde = Dokode / どこ Doko
+Segunda-feira = 月曜日 Getsuyobi
+Tarde = 午後 Gogo
+Terça-feira = 火曜日 Kayobi
+
+Atode = Mais tarde
+Dare = Ontem
+Dansei-tachi = 男性 Homens
+Dono yoni = どのように　Como
+Doyobi = 土曜日 Sábado
+Getsuyobi = 月曜日 Segunda-feira
+Giri no Chichi = 義理の父 Sogro
+Giri no kyodai = Cunhado
+Giri no musume = Nora
+Giri no shimai = 義理の姉妹 Cunhada
+Harachigai no Kyodai = 腹違いの Meio-irmão
+Hiruma = 昼間 Dia
+Josei-tachi = Mulheres
+Kaiyobi = 火曜日 Terça
+Kiruma = Dia
+Kodomotachi = Crianças
+Mamamusuko = Enteado
+Min na = Todos
+Mokuyobi = 木曜日 Quinta-feira
+Nanika = Algo
+Shinpu = Noiva
+Sukoshi = Pouco
+
 ¹Tradução é Azul profundo
 
+-
+--
+---
 Acessórios 
 
 Beruto = cinto
@@ -728,6 +765,51 @@ Hyaku man = 百万 1 Milhão
 Ju Oku = 十億 1 Bilhão
 Chou = 兆 1 Trilhão 
 
+Pessoas :
+
+Dansei-tachi = Homens
+Kanojo 彼女 = Namorada
+Kareshi = Namorado
+Kodomotachi = Crianças
+Josei-tachi = Mulheres
+On na = Mulher
+On na noko = Menina
+Otoko = Homem
+Otokonoko = Menino
+Rinjin = Vizinho
+Shinpu = Nova
+Shinro = Noivo
+Tomodachi = Amigp
+
+Amigo = 友達 Tomodachi
+Crianças = 子供たち Komodotachi
+Homem = Otoko
+Homens = Dansei-tachi / 男性 Dansei
+Mulher = 女性 Josei 
+Mulheres = Josei-tachi
+Menina = 女の子 On na noko
+Menino = 男の子 Otokonoko
+Namorada = 彼女 Kanojo
+Namorado = 彼氏 Kareshi
+Noiva = Shinpu / 花嫁 Hanayome ( ? )
+Noivo = 新郎 Shinro
+Vizinho = Rinjin / 近所の人 ( ? )
+
+---
+Profissões 2 :
+
+Bebishittã = Babá
+Hisho = 
+Repota = Repórter
+Ryorjin = 
+Shobo-shi = 
+U-eita = 
+Uketsuke gakari = Recepcionista
+
+Babá = 
+Recepcionista = 
+
+---
 Pronomes :
 
 Anata = Você 
