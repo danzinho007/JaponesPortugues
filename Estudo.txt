@@ -798,16 +798,43 @@ Vizinho = Rinjin / 近所の人 ( ? )
 ---
 Profissões 2 :
 
+Asurito = Atleta
 Bebishittã = Babá
-Hisho = 
+Dansa = Dançarino
+Doa man = Porteiro 
+Dokeshi = Palhaço
+Gaka = Pintor
+Haikan ko = Encanador
+Hisho = Secretário
+Keisatsu = Policial
+Kensetsu sagyo-in = Pedreiro
+Mahotsukai = Mágico
+Maneja = Gerente
 Repota = Repórter
-Ryorjin = 
+Rihatsu-shi = Barbeiro
+Ryorjin = Cozinheiro
 Shobo-shi = 
-U-eita = 
+U-eita = Garçom
 Uketsuke gakari = Recepcionista
 
+Atleta = アスリート Asurito
 Babá = 
-Recepcionista = 
+Barbeiro = Rihatsu-shi / 理容師 Riyo-shi
+Bombeiro = 消防士 Shobo-shi
+Cozinheiro = Ryorjin / シェフ Shefu
+Dançarino = Dansa / 踊り子 Odoriko
+Encanador = 配管工 Haikan ko
+Garçom = ウェイター U-eita
+Gerente = マネージャー Maneja
+Mágico = Mahotsukai / 魔法 Maho
+Palhaço = Dokeshi / ピエロ Piero
+Pedreiro = Kensetsu sagyo-in / 石工 Ishiku
+Pintor = 画家 Gaka
+Policial = 警察官 Keisatsukan
+Porteiro = Doa man / コンシェルジュ Kosheruju ( ? )
+Recepcionista = 受付 Uketsuke
+Repórter = 報道記者 Hodo kisha
+Secretário = 秘書 Hisho
 
 ---
 Pronomes :
