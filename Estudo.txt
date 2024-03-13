@@ -41,8 +41,64 @@ Alfabeto :
 
 Vogais, K, S, T, N, H, M, R, Y, W 
 
-Vogais    :Aあ-Iい-Uう-Eえ-Oお 
-Família K :Kaか-Kiき-Kuく-Keけ-Koこ
+-Vogais    :Aあ-Iい-Uう-Eえ-Oお 
+Som E e O são sempre fechados 
+Vocabulário : 
+Ai = amor
+Iu = falar
+Ue = em cima
+e = desenho
+Oi = Sobrinho
+Ao = azul
+I = estômago
+Au = encontrar, combinar 
+Ie = casa
+
+Prolongamento de vogais :
+aa = aa
+ii = ii
+uu = uu
+ee = ee
+ei = ee ( se lê ee )
+oo = oo
+ou = ou ( se lê oo )
+
+Vocabulário :
+Ii = Bom
+Iie = Não
+Ee = Sim
+Ooi = bastante
+Ou = Rei ( se lê oo )
+
+-Família K :Kaか-Kiき-Kuく-Keけ-Koこ
+Ka = mosquito
+Ki = árvore
+Kuki = caule
+Ke = pelo
+Koko = aqui
+Aka = Vermelho
+Iki = Respiração
+Ike = Lago
+Koi = paixão
+Kikai = máquina
+
+Tenen = : "
+-Família G :Gaが-Giぎ-Guぐ-Geげ-Goご
+Ga
+Gi = Se lê gui ( ex guia )
+Gu
+Gue = Se lê gue ( ex guerreiro )
+Go 
+
+Vocabulário :
+Ga = mariposa
+Kagi = chave
+Kagu = móvel
+Kage = Sombra
+Gogo = PM ( depois do meio-dia )
+Gake = penhasco
+Kaigi = Reunião
+
 Família S :Saさ-Shiし-Suす-Seせ-Soそ
 Família T :Taた-Tchiち-Tsuつ-Teて-Toと
 Família N :Naな-Niに-Nuぬ-Neね-Noの
@@ -51,7 +107,7 @@ Família M :Maま-Miみ-Muむ-Meめ-Moも
 Família R :Raら-Riり-Ruる-Reれ-Roろ
 Família Y :Yaや-Yuゆ-Yoよ
 Família W :Waわ-WoをーNNん
-Família G :Gaが-Giぎ-Guぐ-Geげ-Goご
+
 Família Z :Zaざ-Jiじ-Zuぜ-Zeぜ-Zoぞ
 Família D :Daだ-Jiぢ-Zuぜ-Deで-Doど
 Família B :Baば-BiびーBuぶ-Beべ-Boぼ
@@ -177,6 +233,54 @@ Sukoshi = Pouco
 
 ¹Tradução é Azul profundo
 
+Revisão 3 
+
+Barukoni = バルコニー Varanda
+Benkyo heya = 勉強部屋 Sala de estudos
+Bini-bo = 
+Butsu = ブーツ Botas
+Isuta = イースター Páscoa
+Iyaringu = Brincos / おもちゃ Omocha
+Kusshon = クッション Almofadas
+Kutsu = 靴 Sapatos
+Kutsushita = 靴下 Meias
+Regumatto = Tapete
+Rimokon = リモコン Controle-remoto
+Saifu = Carteira
+Shin-nen = 新年  Ano novo
+Sukafu = スカーフ Cachecol
+Tebukuro = 手袋 Luvas
+Udedokei = Relógio
+Yokushitsu = Banheiro
+Yubiwa = 指輪 Anel 
+Yuka = 床 Chão
+
+Almofadas = クッション Kusshon
+Ano novo = 新年 Shin-nen
+Banheiro = x / バスルーム Basurumu
+Botas = ブーツ Butsu
+Cachecol = スカーフ Sukafu
+Carteira = Saifu / ポートフォリオ Potoforio
+Chão = 床 Yuka
+Cinto = ベルト Beruto
+Controle-remoto = リモコン Rimokon
+Cortinas =カーテン Katen
+Cozinha = Kitchin / 台所 Daidokoro
+Dia das Bruxas = ハロウィン Haro-in
+Gorro = ビーニー帽 Bini-bo
+Jaqueta = Uwagi / ジャケット Jaketto
+Lareira = 暖炉 Danro
+Macaco = 猿 Saru
+Natal = クリスマス Kurisumasu
+Óculos = 眼鏡 Megane
+Páscoa = イースター Isuta
+Pasta = フォルダ Foruda
+Relógio = Udedokei / 時計 Tokei
+Tapete = Regumatto / マット Matto
+Teto = x / 屋根 Yane
+Tigre = 虎 Tora
+Varanda = バルコニー Barukoni
+
 -
 --
 ---
@@ -190,7 +294,7 @@ Foruda = pasta
 Handobaggu = bolsa
 Iaryungou = brincos 
 Kutsu = sapatos 
-Kutsuashita = meias
+Kutsushita = meias
 Megane = óculos
 Nekureso = colar 
 Saifu = carteira
@@ -246,6 +350,35 @@ Seco = ドライ
 Triste = 悲しい Kanashi
 Velho = 古い Furui
 
+---
+Animais
+
+Kirin = Girafa
+Kuma = Urso
+Nezumi = Rato
+Roba = Burro
+Saru = Macaco
+Shimauma = Zebra
+Tora = Tigre
+Uma = Cavalo
+Ushi = Vaca
+
+Burro = ロバ Roba
+Cachorro = 犬 Inu
+Cavalo = 馬 Uma
+Elefante = ゾウ Zo
+Gato = 猫 Neko
+Girafa = キリン Kirin
+Leão = Raion / レオ Reo ( ? )
+Macaco = 猿 Saru
+Porco = 豚 Buta
+Rato = Nezumi / マウス Mausu
+Tigre = トラ Tora
+Urso = クマ Kuma
+Vaca = 牛 Ushi
+Zebra = Shimauma / ゼブラ Zebura
+
+---
 Animais 2 
 
 Hebi = cobra
@@ -311,6 +444,37 @@ Automóveis :
 
 Kyūkyūsha = 救急車 Ambulância
 
+Banheiro :
+
+Basu tabu = Banheira
+Deodoranto = 
+Haburashi = Escova de dente
+Hamigakiko = Pasta de dente
+Handotaoru = Toalha de mão
+Heaburashi =
+Headoreya = Secador de cabelo
+Kami sori = Lâmina de barbear
+Kondishona = 
+Kosui = Perfume
+Sekken = Sabonete
+Seiriyonapukin = 
+Shanpu = 
+Shawakaten = Cortina de chuveiro
+Taoru = Toalha
+Toire = Vaso sanitário
+Toiretopepa = 
+
+Absorvente feminino = タンポン Tanpon
+Chuveiro = シャワー Shawa
+Condicionador = コンディショナー 
+Escova de dente = 歯ブラシ Haburashi
+Espelho = 鏡 Kagami
+Pasta de dente = 歯磨き粉 Hamigakiko
+Sabonete = 石鹸 Seken
+Shampoo = シャンプー Shanpu
+Vaso sanitário = トイレ Toire
+
+---
 Bebidas :
 
 Biru = Cerveja
@@ -460,6 +624,43 @@ Kiiyobi = 金曜日 Sexta
 Doyoubi = 土曜日 Sábado 
 Nichiyobi = 日曜日　Sunday Domingo
 
+Esportes :
+
+
+Bareboru = バレーボール Voleibol
+Bajutsu = Hipismo
+Basukettoboru = Basquetebol
+Bokushingu = Boxe
+Botto kyogi = Remo
+Chesu = Xadrez
+Futtoboru = Futebol americano
+Gorufu = Golfe
+Handoboru = Handebol
+Kyoso = Corrida
+Marason = Maratona
+Sakká = サッカー Futebol 
+Suketo = Patinação
+Suie = Natação
+Tenisu = テニス Tênis
+
+Beisebol = 野球 Yakyu
+Ciclismo = サイクリング Saikuringu
+Corrida = Kyoso / 人種 Jinshu
+Futebol = サッカー Sakka
+Futebol Americano = フットボール Futtoboru
+Golfe = ゴルフ Gorufu
+Hippismo = 馬術 Bajutsu
+Hóquei = ホッケー Hokke
+Judô = 柔道 Judo
+Maratona = マラソン Marason
+Natação = 水泳 Suiei ( Suie )
+Patinação = スケート Suketo
+Remo = 漕ぐ Kogu
+Tênis = テニス Tenisu
+Voleibol = バレーボール Bareboru
+Xadrez = チェス Chesu
+
+---
 Estacoes 
 
 Aki　秋　Outono arvore
@@ -511,6 +712,7 @@ pais = ryoshin
 tia = 叔母 Oba / obasan
 tio = 叔父 Oji / ojisan
 
+---
 Família 2
 
 Giri no Chichi = Sogro 
@@ -541,31 +743,72 @@ Padrasto = 継父
 Sogra = 義理の母
 Sogro = Giri no Chichi 義父
 
+---
 Frutas :
 
 Budo = Uva
+Ichigo = Morango
 Momo = Pêssego
 Raimu = Limão 
 Razuberi = Framboesa
 Ringo = Maçã
 Sakuranbo = Cereja
+Seiyo nashi = Pera
 Suika = Melância
 Ume = Ameixa 
 
 Abacate = アボカド Abokado
+Abacaxi = パイナップル Painappuru
 Ameixa = Ume 
+Amora = ブラックベリー Burakkuberi
 Cereja = さくらんぼ Sakuranbo
+Coco = ココナッツ Kokonattsu
 Framboesa = ラズベリー Razuberi
 Laranja = オレンジ Orenji
-Limão = レモン Raimu
+Limão = レモン Lemon / Raimu ( ? )
 Limão Siciliano = シチリア産レモン Remon
 Maçã = ゴミ Ringo
 Melância = スイカ Suika
+Mirtilo = ブルーベリー Buruberi
 Morango = いちご Ichigo
 Pêssego = 桃 Momo
 Toranja = グレープフルーツ Gurepufurutsu
 Uva = ぶどう / 葡萄 Budo
 
+---
+Frutas 2 
+
+Cheri = Cereja
+Guaba = 
+Hezerunattsu = Avelã
+Ichijiku = イチジク Figo
+Kashu = Caju
+Kiui = 
+Kurumi = Noz
+Mango = 
+Meron = Melão
+Passhonfurutsu = Maracujá
+Pinattsu = Amendoim
+Pisutachio = 
+Tanjerin =
+
+Ameixa = Puramu / 梅 Ume
+Amendoim = Pinatsu / 落花生 Rakkasei
+Avelã = ヘーゼルナッツ Hiezerunattsu
+Caju = Kashu
+Cereja = チェリー Cheri
+Figo = イチジク Ichijiku
+Goiabaa
+Kiwi = キウイ Kiui
+Mamão = Papaiya
+Manga = Mango
+Maracujá = パッションフルーツ Passhonfurutsu
+Melão = メロン Meron
+Noz = Kurumi / ナット Natto
+Pistache = ピスタチオ
+Tangerina = タンジェリン Tangerin
+
+---
 Lavanderia :
 
 Airon = Ferro de roupa
@@ -691,6 +934,35 @@ Outubro = 十月 jūgatsu
 Novembro = 十一月 jūichigatsu
 Dezembro = 十二月 jūnigatsu
 
+---
+Natureza 
+
+Ame = Chuva
+Hoshi = Estrela
+Ishi = Pedra
+Kaze = Vento
+Kuki = 空気 Ar
+Kumo = Nuvem
+Niji = Arco-íris
+Sora = Céu
+
+Água = 水 Mizu
+Ar = 空気 Kuki
+Arco-íris = 虹 Niji
+Areia = 砂 Suna
+Céu = 空 Sora
+Chuva = 雨 Ame
+Estrela = 星 Hoshi
+Fogo = 火 Hi
+Gelo = 氷 Kori
+Lua = 月 Tsuki
+Neve = 雪 Yuki
+Nuvem = 雲 Kumo
+Pedra = 石 Ishi
+Sol = 太陽 Taiyo
+Vento = Kaze / 風 fu
+
+---
 Numeral Ordinal :
 
 Byo = びょSegundo 
@@ -931,6 +1203,62 @@ Mesa de cabeceira = ベッドサイドテーブル
 Travesseiro = Makura 枕
 Ventilador = ファン
 
+---
+Roupas :
+
+Burausu = ブラウス Blusa
+Doresu = ドレス Vestido
+Seta = Suéter 
+Sutsu = スーツ Terno 
+Tanpan = Calção
+Uwagi = Jaqueta
+Zubon = Calça
+
+Biquíni = ビキニ Bikini
+Blusa = ブラウス Burausu
+Calça = Zubon / パンツ Pantsu ( ? )
+Calção = Tanpan / ショーツ Shotsu
+Calcinha = Panti  / パンティー Pantsu ( ? )
+Camisa = シャツ Shatsu
+Casaco = コート Koto
+Cueca = Buriifu / パンツ Pantsu
+Pijama = パジャマ Pajama
+Jaqueta = Uwagi / ジャケット Jaketto ( ? )
+Saia = スカート Sukato ( Tsukaato )
+Suéter = セーター Seta
+Sutiã = ブラジャー Buraja
+Terno = スーツ Sutsu
+Vestido = ドレス Doresu
+
+---
+Sala
+
+Dando = Lareira
+Kabin = Vaso
+Ragumatto = Tapete
+Ranpu = Luminária
+Rimokon = Controle remoto
+Teburu = Mesa
+
+Almofadas = Kusshon / 枕 Makura
+Banco = Benchi / 銀行 ginko
+Cadeira = Isu / 議長 Gicho
+Chaves = Kagi / キー ki
+Controle remoto = リモコン Rimokon
+Cortinas = カーテン Katen
+Lareira = 暖炉 Dando
+Luminária = Ranpu / 照明器具 Kigu
+Mesa = Teburu / 表 Hyo
+Moldura = フレーム Furemu
+Pintura = 絵画 Kaiga
+Prateleira = 棚 Tana
+Poltrona = Hijikake isu / アームチェア Amuchea 
+Sofá = ソファ Sofa
+Tapete = Ramugatto / カーペット Kapetto
+Televisão = テレビ Terebi
+Vaso = 花瓶 Kabin
+
+---
 Sala de estudos :
 
 Chizu = mapa 
@@ -968,6 +1296,7 @@ Pincel = ブラシ Efude
 Régua = 定規 Jõgi
 Tinta = インク
 
+---
 Salada de Frutas 
 
 Aisukurimu = Sorvete
@@ -996,6 +1325,7 @@ Salada de Frutas = フルーツサラダ Furutsusarada
 Sorvete = アイスクリーム Aisukurimu
 Torta = パイ Pai
 
+---
 Tempo :
 
 Saki Hodo No = Mais cedo 
@@ -1016,6 +1346,7 @@ Shu = 週 semana
 Tsuki = 月　mês
 Toshi = Ano
 
+---
 Transportes 
 
 Basutei / バス停 = Ponto de ônibus
@@ -1047,6 +1378,139 @@ Ponto de ônibus = バス停 Basutei
 Táxi = タクシー Takushi
 Trem = 電車 Densha
 Trem-bala = 新幹線 Shinkansen
+
+---
+Verbos
+
+Aruku = Andar
+Hanasu = Falar
+Iku = 
+Kau = Comprar
+Mewosamasu = Acordar
+Motte iru = 
+Nomu = Beber
+Shawa o abiru = 
+Shiharau = Pagar
+Suki = 好き Gostar
+Surbeki koto = Fazer
+Suwaru = Sentar
+Taberu = 
+Tasukeru = 
+Uru = 
+Utau = Cantar
+Yosoru = Precisar
+
+Acordar = Mewosamasu / 目覚めるために Mezameru
+Andar = 歩く Aruku
+Beber = 飲む Nomu
+Cantar = 歌う Utau
+Comer = 食べる Taberu
+Comprar = Kau / 購入 Konyu
+Dormir = 寝る Nemuru / 寝るため Neru tame
+Falar = 話す Hanasu / 話すこと Hanasu koto
+Fazer = Surubeki koto / やること Yaru koto
+Gostar = 好きになる 
+Ir = 行く Iku
+Pagar = 支払う Shiharau
+Precisar = 必要とする To suru
+Querer = Nozomu
+Sentar = 座る Suwaru
+Ter = 持つため Motsu tame
+Tomar banho = Shawa / お風呂に入るには 
+Vender = 売る Uru 
+
+---
+Aplicativo Aprender Japonês BNR :
+ 
+Categorias desbloqueadas = 47 / 60
+Desafios finalizados 2 / 5
+Lições sem erro = 50 / 100
+Metas diárias = 20 / 30
+
+01- Hiragana 1 e 2
+02- Hiragana 3 e 4
+03- Katakana 1 e 2
+04- Katakana 3 e Cumprimentos
+05- Cores e Números
+06- Pronomes e Família
+Fim Módulo 1
+
+07- Semana e Meses 
+08- Tempo e Pronomes 2
+09- Família 2 e Pessoas
+Fim Módulo 2
+
+10- Estações e Roupas
+11- Casa e Sala
+12- Acessórios e Animais
+Fim Módulo 3
+
+13- Quarto e Banheiro
+014- Animais 2 e Verbos
+015- Sala de estudos e Cozinha (01)
+Fim Módulo 4
+
+016- Lavanderia e Verbos 2 (02)
+017- Comidas e Café da manhã (03)
+018- Bebidas e Carne (04)
+Fim Módulo 5
+
+018- Massas e Adjetivos
+019- Sobremesas e Corpo (05)
+020- Condimentos(06) e Cabeça(07)
+Fim Módulo 6
+
+21- Animais Aquáticos e Adjetivos 2 (08)
+22- Transportes e Profissões (09)
+23- Lugares e Localização (10)
+Fim Módulo 7
+
+24- Profissões 2 e Esportes
+25- Adjetivos 3 (11) e Crianças (12)
+26- Frutas e Legumes (13)
+Fim Módulo 8
+
+27- Natureza e Clima (14)
+28- Frutas 2 e Legumes 2 (15)
+29- Natureza 2 (16) e Animais 3 (17)
+Fim Módulo 9
+
+2 x 29 = 58 aulas 
+58 - 17 que não fiz = 41
+41 + 3 desafios = 44 
+
+30- Verbos 3 (18)
+31-
+32-
+Fim Módulo 10
+
+33- Doenças (19)
+34-
+35-
+Fim Módulo 11
+
+36- Insetos (20)
+37-
+38-
+Fim Módulo 12
+
+39- Negócios (21)
+40-
+41-
+Fim Módulo 13
+
+42- Geografia (22)
+43-
+44-
+Fim Módulo 14
+
+45- Cosméticos (23)
+46-
+47-
+Fim Módulo 15
+
+2 x 47 = 94 Assuntos
+94 + 15 desafios = 109 
 
 --------------------------------------------------------------------------------------
 Ingles > Japones 304 
@@ -2146,161 +2610,58 @@ Also note that the English meaning under each Kanji is just one of many other po
 印 stamp
 兆 portent
 老 old man
-
-争
-contend
-
-伝
-transmit
-
-成
-turn into
-
-初
-first time
-
-求
-request
-
-改
-reformation
-
-折
-fold
-
-位
-rank
-
-良
-good
-
-囲
-surround
-
-冷
-cool
-
-児
-newborn babe
-
-労
-labor
-
-完
-perfect
-
+争 contend
+伝transmit
+成turn into
+初first time
+求request
+改reformation
+折fold
+位rank
+良good
+囲surround
+冷cool
+児newborn babe
+労labor
+完perfect
 低 lower + baixa
-
-告
-revelation
-
-臣
-retainer
-
-束
-bundle
-
-兵
-soldier
-
-別
-separate
-
-希
-hope
-
-芸
-technique
-
-材
-lumber
-
-努
-toil
-
-利
-profit
-
-芽
-bud
-
-刷
-printing
-
-固
-harden
-
-泣
-cry
-
-参
-nonplussed
-
-牧
-breed
-
-毒
-poison
-
-協
-co-
-
-松
-pine tree
-
-例
-example
-
-府
-borough
-
-治
-reign
-
-念
-wish
-
-官
-bureaucrat
-
-英
-England
-
-底
-bottom
-
-卒
-graduate
-
-径
-diameter
-
-的
-bull's eye
-
-周
-circumference
-
-典
-code
-
-季
-seasons
-
-果
-fruit
-
-法
-method
-
-単
-simple
-
-飛
-fly
-
-浅
-shallow
+告revelation
+臣retainer
+束bundle
+兵soldier
+別separate
+希hope
+芸technique
+材lumber
+努toil
+利profit
+芽bud
+刷printing
+固harden
+泣cry
+参nonplussed
+牧breed
+毒poison
+協co-
+松pine tree
+例example
+府borough
+治reign
+念wish
+官bureaucrat
+英England
+底bottom
+卒graduate
+径diameter
+的bull's eye
+周circumference
+典code
+季seasons
+果fruit
+法method
+単simple
+飛fly
+浅shallow
 
 Tips: joujou characters (Kanji characters to be learned at schools in Japan) are highlighted.
 Also note that the English meaning under each Kanji is just one of many other possible senses.
@@ -3427,6 +3788,16 @@ radical:
 迅 swift
 迎 welcome
 
+https://pt.wikipedia.org/wiki/J%C5%8Dy%C5%8D_kanji
+https://educapes.capes.gov.br/bitstream/capes/597990/2/Exerc%C3%ADcio_Kanji_Parte1.pdf
+https://www.nhk.or.jp/lesson/pt/letters/kanji.html
+
+Kanji :
+
+図 Desenho + 書 Escrever + 館 Prédio público = Bliblioteca
+工 Artifício + 場 Lugar = Fábrica 
+
+図書館と工場
 Abertura Cardfight Vanguard
 
 IMEEJI ga kasanaru 
