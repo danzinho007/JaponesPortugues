@@ -236,14 +236,20 @@ Sukoshi = Pouco
 Revisão 3 
 
 Barukoni = バルコニー Varanda
+Benchi = Banco
 Benkyo heya = 勉強部屋 Sala de estudos
 Bini-bo = 
 Butsu = ブーツ Botas
+Dainingurumu = Sala de jantar
 Isuta = イースター Páscoa
 Iyaringu = Brincos / おもちゃ Omocha
+Nezumi = Rato
+Kuma = Urso
+Kurisumasu = クリスマス Natal
 Kusshon = クッション Almofadas
 Kutsu = 靴 Sapatos
 Kutsushita = 靴下 Meias
+Osho = Chapeu
 Regumatto = Tapete
 Rimokon = リモコン Controle-remoto
 Saifu = Carteira
@@ -257,12 +263,13 @@ Yuka = 床 Chão
 
 Almofadas = クッション Kusshon
 Ano novo = 新年 Shin-nen
-Banheiro = x / バスルーム Basurumu
+Banheiro = Yokoshitsu / バスルーム Basurumu !!! Pesquisar
 Botas = ブーツ Butsu
 Cachecol = スカーフ Sukafu
-Carteira = Saifu / ポートフォリオ Potoforio
+Carteira = Saifu / ポートフォリオ Potoforio !!! Pesquisar
 Chão = 床 Yuka
 Cinto = ベルト Beruto
+Colar = Nekurezo
 Controle-remoto = リモコン Rimokon
 Cortinas =カーテン Katen
 Cozinha = Kitchin / 台所 Daidokoro
@@ -275,9 +282,11 @@ Natal = クリスマス Kurisumasu
 Óculos = 眼鏡 Megane
 Páscoa = イースター Isuta
 Pasta = フォルダ Foruda
-Relógio = Udedokei / 時計 Tokei
+Primavera = Haru
+Relógio = Udedokei / 時計 Tokei !!! Pesquisar
+Sala de estudos = 勉強部屋
 Tapete = Regumatto / マット Matto
-Teto = x / 屋根 Yane
+Teto = Tenjo / 屋根 Yane !!! Pesquisar
 Tigre = 虎 Tora
 Varanda = バルコニー Barukoni
 
@@ -614,6 +623,51 @@ Marrom = Chairo
 Prata = 銀 Gin iro 
 Rosa = ピンク
 
+---
+Cozinha :
+
+Botoru = Garrafa
+Deijirenji = Microondas
+Foku = Garfo
+Furui = Peneira
+Futa = Tampa
+Kappu = Copo
+Katorari = Colheres
+Kohimeka = 
+Konro = Fogão
+Mikisa = Liquidificador
+Nabe = Panela
+Nagashidai = Pia
+Naifu = Faca
+O wan = Tigela
+Obun = Forno
+Reizoko = Geladeira
+Sara = Prato
+Shokusenki = Lava-louças
+Supun = Colher
+Tosuta = トースター Torradeira
+
+Abridor de garrafa = Sen nuki / 
+Colher = Supun / 収穫するため Suru tame
+Copo = Kondo / ガラス Garasu
+Faca = Naifu / する Suru
+Fogão = Konro / ストーブ Sutobu !!!
+Forno = オーブン Obun
+Garfo = フォーク Foku
+Garrafa = ボトル Botoru
+Geladeira = 冷蔵庫 Reizoko
+Guardanapo = ナプキン Napukin
+Lava-louças = Shokusenki 食器洗い機 
+Microondas = 電子レンジ Deijirenji
+Panela = パン Pan
+Peneira = ふるい Furui
+Prato = 皿 Sara
+Talheres = カトラリー Katorari
+Tampa = Futa / カバー Tampa
+Torradeira = トースター Tosuta
+Xícara = Tikappu / カップ Kappu
+
+---
 Dias da semana :
 
 Getsuyobi = 月曜日 Segunda
@@ -624,8 +678,8 @@ Kiiyobi = 金曜日 Sexta
 Doyoubi = 土曜日 Sábado 
 Nichiyobi = 日曜日　Sunday Domingo
 
+---
 Esportes :
-
 
 Bareboru = バレーボール Voleibol
 Bajutsu = Hipismo
@@ -677,6 +731,7 @@ Shinenkai 新年会 Festa de Ano novo
 Natal クリスマス Kurisumasu 
 Pascoa　イースター
 
+---
 Família 1
 
 Ane = 妹 Irmã
@@ -833,6 +888,7 @@ Máquina de lavar roupa = 洗濯機
 Rodo = スキージ Gomu zo kin
 Vassoura = ほうき
 
+---
 Lugares :
 
 Bekari = Padaria
@@ -1446,71 +1502,68 @@ Fim Módulo 2
 Fim Módulo 3
 
 13- Quarto e Banheiro
-014- Animais 2 e Verbos
-015- Sala de estudos e Cozinha (01)
+14- Animais 2 e Verbos
+15- Sala de estudos e Cozinha (01)
 Fim Módulo 4
 
-016- Lavanderia e Verbos 2 (02)
-017- Comidas e Café da manhã (03)
-018- Bebidas e Carne (04)
+16- Lavanderia e Verbos 2 (02)
+17- Comidas e Café da manhã (03)
+18- Bebidas e Carne (04)
 Fim Módulo 5
 
-018- Massas e Adjetivos
-019- Sobremesas e Corpo (05)
-020- Condimentos(06) e Cabeça(07)
+19- Massas e Adjetivos
+20- Sobremesas e Corpo (05)
+21- Condimentos(06) e Cabeça(07)
 Fim Módulo 6
 
-21- Animais Aquáticos e Adjetivos 2 (08)
-22- Transportes e Profissões (09)
-23- Lugares e Localização (10)
+22- Animais Aquáticos e Adjetivos 2 (08)
+23- Transportes e Profissões (09)
+24- Lugares e Localização (10)
 Fim Módulo 7
 
-24- Profissões 2 e Esportes
-25- Adjetivos 3 (11) e Crianças (12)
-26- Frutas e Legumes (13)
+25- Profissões 2 e Esportes
+26- Adjetivos 3 (11) e Crianças (12)
+27- Frutas e Legumes (13)
 Fim Módulo 8
 
-27- Natureza e Clima (14)
-28- Frutas 2 e Legumes 2 (15)
-29- Natureza 2 (16) e Animais 3 (17)
+28- Natureza e Clima (14)
+29- Frutas 2 e Legumes 2 (15)
+30- Natureza 2 (16) e Animais 3 (17)
 Fim Módulo 9
 
 2 x 29 = 58 aulas 
 58 - 17 que não fiz = 41
 41 + 3 desafios = 44 
 
-30- Verbos 3 (18)
-31-
+31- Verbos 3 (18)
 32-
+33-
 Fim Módulo 10
 
-33- Doenças (19)
-34-
+34- Doenças (19)
 35-
+36-
 Fim Módulo 11
 
-36- Insetos (20)
-37-
+37- Insetos (20)
 38-
+39-
 Fim Módulo 12
 
-39- Negócios (21)
-40-
+40- Negócios (21)
 41-
+42-
 Fim Módulo 13
 
-42- Geografia (22)
-43-
+43- Geografia (22)
 44-
+45-
 Fim Módulo 14
 
-45- Cosméticos (23)
-46-
+46- Cosméticos (23)
 47-
+48-
 Fim Módulo 15
-
-2 x 47 = 94 Assuntos
-94 + 15 desafios = 109 
 
 --------------------------------------------------------------------------------------
 Ingles > Japones 304 
@@ -2406,6 +2459,9 @@ https://skdesu.com/lista-de-kanjis-na-ordem-que-se-aprende-nas-escolas/
 
 Pesquisar Kanjis
 https://jisho.org/search/%E5%B0%8F
+
+Ordem 
+https://skdesu.com/lista-de-kanjis-na-ordem-que-se-aprende-nas-escolas/
 
 Grade 1 / Grau 1
 https://www.romajidesu.com/kanji/grade:1
