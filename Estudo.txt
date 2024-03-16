@@ -349,6 +349,76 @@ Teto = Tenjo / 屋根 Yane !!! Pesquisar
 Tigre = 虎 Tora
 Varanda = バルコニー Barukoni
 
+---
+Revisão 4
+
+Botoru = 
+Eakondishoningo = Ar condicionado
+Haburashi = Escova de dente
+Handotaoru = 
+Hanga = 
+Hasami = Tesoura
+Heddobodo = 
+Itsuji = Ovelha
+Kaba = Hipopótamo
+Kau = Comprar
+Kohimeka = 
+Kondishona = 
+Konro = Fogão
+Kosui = Perfume
+Makura kaba = Fronha
+Mattoresu = Colção
+Mezamashidokei = 目覚まし時計 Despertador
+Mikisa = 
+Mofu = 
+Obun = Forno
+Raitostandu = Mesa de cabeceira
+Risu = Esquilo
+Ryukkusakku = Mochila
+Seiriyonapukin = 生理用ナプキン Absorvente feminino
+Sekken = 石鹸 Sabonete
+Sen nuki = Abridor de garrafa
+Shokusenki = Lava-louças
+Tosuta = Torradeira
+Tsukue = Escrivaninha
+Usagi = 
+Wani = 
+
+Abajur = ランプシェード
+Abridor de garrafa = 栓抜き Sen nuki
+Absorvente feminino = x / タンポン ( ? )
+Ar condicionado = x / 空調 ( ? )
+Beber = Nomu
+Calendário = カレンダー Karenda
+Cobra = ヘビ Hebi
+Colchão = マットレス Mattoresu
+Colher = 
+Copo = Kappu
+Escova de dente = 歯ブラシ Haburashi
+Escrivaninha = Tsukue
+Esquilo = Risu
+Faca = ナイフ Naifu / する ( ? )
+Fogão = Konro
+Forno = オーブン Obun
+Fronha = 枕カバー Makura Kaba
+Garrafa = Botoru
+Grampeador = ホッチキス Hotchikisu
+Guaxinim = Tanuki
+Hipopótamo = カバ Kaba
+Lobo = オオカミ Ookami
+Microondas = Deijirenji
+Mochila = リュック+ Ryukkusakku / ランドセル ( ? )
+Onça = ジャガー Jaga
+Pasta = フォルダ Foruda
+Pasta de dente = Hamigakiko
+Perfme = 香水 Kosui
+Pincel = Efude
+Régua = ルーラー
+Sabonete = 石鹸 Sekken
+Tela = Sukurin
+Tesoura = Hasami
+Travesseiro = 枕 Makura
+Vaso sanitário = トイレ Toire
 -
 --
 ---
@@ -602,7 +672,24 @@ Torrada = Tosuto / 乾杯 Kanpai ( ? )
 ---
 Carne
 
+Babekyu = Churrasco
+Bekon = ベーコン Toucinho
+Hanbagu = Hamburguer
+Kaisen = 魚介類 Frutos do mar 
+Mitoboru = ミートボール almôndega
+Ribu = Costela
+Rosutochikin = Frango assado
+Soseji = Linguiça
+Suteki = Bife
+Tori mune niku = Peito de frango
+Ushi hikiniku = Carne moída
 
+Bife = Suteki ( Lê Tsuteki )
+Carne moída = 牛挽き肉 Ushi hikiniku
+Churrasco = バーベキュー Babekyu
+Costela = Ribu
+Frutos do mar = 魚介類 
+Peixe grelhado = 焼き魚 Yakizakana
 
 ---
 Casa :
