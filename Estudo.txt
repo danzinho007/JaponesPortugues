@@ -99,8 +99,68 @@ Gogo = PM ( depois do meio-dia )
 Gake = penhasco
 Kaigi = Reunião
 
-Família S :Saさ-Shiし-Suす-Seせ-Soそ
-Família T :Taた-Tchiち-Tsuつ-Teて-Toと
+Família S :
+Saさ
+Shiし ( som de China )
+Suす
+Seせ
+Soそ
+
+sake = bebidade alcoolica
+shio = sal
+sushi = sushi
+sekai = mundo
+soko = ai 
+asa = manhã
+ushi = boi, vaca
+suika = melancia
+ase = suor
+uso = mentira
+
+Família Z :
+Zaざ (se lê dza)
+Jiじ (se lê dji)
+Zuぜ (se lê dzu)
+Zeぜ (se lê dze)
+Zoぞ (se lê dzo)
+
+aza = hematoma
+jiko = acidente
+shizuku = gota
+kaze = Vento
+kazoku = família
+uzai = irritante
+aji = sabor
+kizu = ferida
+kizoku = aristocracia
+
+Família T :
+Taた 
+Tchiち ( se lê tchi )
+Tsuつ  ( se lê tsu tsunami )
+Teて
+Toと
+
+tako = polvo, calo
+chika = subsolo
+tsuki = lua
+tetsu = Ferro
+toki = tempo
+takai = caro, alto
+chikatetsu = metrô
+atsui = calor, quente
+te = mão
+oto = som, barulho
+
+Família D :
+Daだ
+Jiぢ ( se lê ji )
+Zuぜ ( se lê zu )
+Deで
+Doど
+
+
+
 Família N :Naな-Niに-Nuぬ-Neね-Noの
 Família H :Haは-Hiひ-Fuふ-Heへ-Hoほ
 Família M :Maま-Miみ-Muむ-Meめ-Moも
@@ -108,8 +168,7 @@ Família R :Raら-Riり-Ruる-Reれ-Roろ
 Família Y :Yaや-Yuゆ-Yoよ
 Família W :Waわ-WoをーNNん
 
-Família Z :Zaざ-Jiじ-Zuぜ-Zeぜ-Zoぞ
-Família D :Daだ-Jiぢ-Zuぜ-Deで-Doど
+
 Família B :Baば-BiびーBuぶ-Beべ-Boぼ
 Família P :Paた-Piぴ-Puぷ-Peぺ-Poぽ
 Família pequena:Yaや-Yuゆ-Yoよ-Tsuつ
@@ -449,6 +508,7 @@ Polvo = タコ Tako
 Tartaruga = カメ Kame
 Tubarão = サメ Same
 
+---
 Automóveis :
 
 Kyūkyūsha = 救急車 Ambulância
@@ -512,6 +572,39 @@ Refrigerante = 冷蔵庫
 Suco = ジュース Jusu
 Vinho = ワイン Wain
 
+---Letra C---
+
+---
+Café da manhã
+
+Bata = Manteiga
+Hamu = Presunto
+Jamu = Geléia
+Kudamono = Frutas
+Okayu = Mingau 
+Tamago = 卵 Ovo
+
+Aveia = Oto mogi / オーツ麦 Otsu mugi
+Cereal = Kokumotsu / シリアル Shiriaru ( ? )
+Frutas = 果物 Kudamono 
+Geléia = Jamu / ゼリー Zeri ( ? )
+Iogurte = ヨーグルト Yoguruto
+Manteiga = バター Bata
+Mingau = お粥 Okayu
+Ovo = 卵 Tamago
+Panqueca = パンケーキ Pankeki
+Pasta de amendoim = ピーナッツバター Pinattsubata
+Pão = パ Pan
+Presunto = ハム Hamu
+Queijo = チーズ Chizu
+Torrada = Tosuto / 乾杯 Kanpai ( ? )
+
+---
+Carne
+
+
+
+---
 Casa :
 
 Barukoni = バルコニー Varanda
@@ -534,6 +627,7 @@ Yaneura = 屋根裏 Sotão
 Yokushitsu = バスルーム Banheiro
 Yuka = Chão 
 
+---
 Comidas :
 
 Bigan = Vegano
@@ -566,6 +660,7 @@ Sushi = 寿司
 Vegano = ビーガン
 Vegetariano = ベジタリアン
 
+---
 Comprimentos :
 
 Aishiteru = Eu te amo 
@@ -1474,6 +1569,41 @@ Sentar = 座る Suwaru
 Ter = 持つため Motsu tame
 Tomar banho = Shawa / お風呂に入るには 
 Vender = 売る Uru 
+
+--Verbos 2
+
+Ataeru = Dar
+Au = Encontrar
+Hiraku = Abrir
+Kaku = Escrever
+Kanjiru = Sentir
+Kotaeru = Responder
+Manabu = 
+Nikumu = 憎む Odiar
+Tojiru = Fechar
+Uketoru = Receber
+Ushinau = Perder
+
+Abrir = Hiraku / 開ける Akeru ( ? )
+Amar = 愛する Aisuru
+Aprender = 学ぶ Manabu
+Dançar = Odoru / ダンス Dansu ( ? )
+Dar = 与える Ataeru 
+Encontrar = Au / 見つける Mitsukeru ( ? )
+Ensinar = 教えるために Oshieru tame ni
+Escrever = 書く Kaku
+Escutar = 
+Fechar = 閉じる Tojiru
+Ganhar = 勝つ Katsu
+Ler = 読む Yomu
+Mostrar = 見せる Miseru
+Odiar = 憎む Nikumu
+Olhar = 見る Miru
+Perder = Ushinau / 負ける Makeru ( ? )
+Perguntar = 尋ねる Tazuneru
+Receber = 受け取る Uketoru
+Responder = Kotaeru / 返事する Henji suru
+Sentir = 感じる Kanjiru
 
 ---
 Aplicativo Aprender Japonês BNR :
