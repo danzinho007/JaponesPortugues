@@ -419,6 +419,44 @@ Tela = Sukurin
 Tesoura = Hasami
 Travesseiro = 枕 Makura
 Vaso sanitário = トイレ Toire
+
+---
+Revisão 5
+
+Airon = アイロン Ferro de roupa
+Baketsu = Balde
+Bata = 
+Gomibako = Lata de lixo
+Gomuzokin = Rodo
+Jamu = Geléia
+Kaisen = Frutos do mar
+Ocha = Chá
+Odoru = 
+Okayu = Mingau 
+Sunaku = Lanche
+Ushi hikiniku = 牛挽き肉 Carne moída
+Ushinau = 失う Perder
+Zojiki = Aspirador de pó
+
+Arroz = Mai
+Balde = バケツ Baketsu
+Batata frita = チップス Furaidopoteto
+Bebida energética = Eiyo dorinku
+Café = コーヒー Kohi
+Carne moída = 牛挽き肉 Ushi hikiniku
+Costela = リブ Ribu
+Cereal = Kokumotsu
+Detergente para roupa = 洗濯 + Sentakuyosenzai
+Lata de lixo = ゴミ箱 Gomibako
+Geléia = ジャム Jamu
+Perder = 
+Receber = 受け取る Uketoru
+Refrigerante = ソーダ Soda
+Responder = 答える Kotaeru
+Sucu = Jusu
+Sushi = 寿司 OSuShi
+Vegetariano = ベジタリアン
+
 -
 --
 ---
@@ -442,9 +480,9 @@ Tebukuro = luvas
 Udedokei = Relógio
 Yubiwa = anel 
 
-Anel = リング
-Cachecol = スカーフ
-Carteira = ポートフォリオ
+Anel = リング ( OK )
+Cachecol = スカーフ ( OK )
+Carteira = ポートフォリオ ( OK )
 Gorro = ビーニー 
 Luvas = 手袋 
 Meias = 靴下 
@@ -645,6 +683,30 @@ Vinho = ワイン Wain
 ---Letra C---
 
 ---
+Cabeça
+
+Anochihige = Bigode
+Ago = Queixo
+Ha = Dente
+Hana = Nariz
+Ho = Bochecha
+Kami = Cabelo
+Kuchi = Boca
+Kuchibiro = Lábios
+Mayuge = Sobrancelha
+Mimi = Orelha
+Shita = Língua
+
+Bigode = 口ひげ
+Bochecha = Ho
+Dente = Ha
+Lábios = Odeiko
+Nariz = Hana
+Orelha = Mimi
+Sobrancelha = 
+Testa = Odeko
+
+---
 Café da manhã
 
 Bata = Manteiga
@@ -771,6 +833,27 @@ Sumimasen = Licença
 Iekuso = Bem vindo
 Iia = Oi
 
+---
+Condimentos
+
+Kosho = Pimenta
+Oribuoiru = Azeite
+Sato = Açúcar
+Shio = Sal
+Sosu = ソース Molho
+Su = 酢 Vinagre
+
+Azeite = オリーブオイル Oribuoiru
+Erva = ハーブ Habu
+Ketchup = ズ - ケチャップ Kechappu
+Maionese = マヨネーズ 
+Mostarda = マスタード Masutado
+Oregano = オレガノ 
+Pimenta = こしょう Kosho
+Sal = Shio
+Vinagre = Su
+
+---
 Cores Sites :
 
 https://www.aulasdejapones.com.br/cores-em-japones/
@@ -804,6 +887,33 @@ Cinza = Hairo
 Marrom = Chairo 
 Prata = 銀 Gin iro 
 Rosa = ピンク
+
+---
+Corpo :
+
+Ashi = Pé
+Heso = Umbigo
+Hibi = Dedo da mão
+Hiji = Cotovelo
+Kata = Ombro
+Kubi = くび Pescoço
+Mune = 胸 Peito
+Onaka = お腹 Barriga
+Oshiri = Bunda
+Senaka = Costas
+Sokushi = Dedo do Pé
+Te = Mão
+Tsume = Unha
+Ude = 腕 Braço
+Yubi = Dedo
+
+Barriga = お腹 Onaka
+Braço = Ude
+Cotovelo = Hishi
+Dedo do pé = Sokushi
+Peito = Mune
+Umbigo = Heso
+Unha = Tsume
 
 ---
 Cozinha :
@@ -1924,133 +2034,6 @@ years = 月日
 yes = HaI
 you are welcome > DoUITaShiMaShiTe
 
-Japonês > Português 
-
-A あ
-あか (aka) - Vermelho
-あかるい (akarui) - Brilhante
-あめ (ame) - Chuva
-あなた (anata) - Você
-あお (ao) - Azul
-ありがとう (arigatou) - Obrigado
-あし (ashi) - Pé
-あした (ashita) - Amanhã
-あそこ (asoko) - Lá
-あたたかい (atatakai) - Quente
-ありがとうu。どういたしまして。Obrigado você, de nada
-
-I い
-いえ (ie) - Casa
-いく (iku) - Ir
-いけ (ike) - Lago
-いし (ishi) - Pedra
-いす (isu) - Cadeira
-いち (ichi) - Um
-いちご (ichigo) - Morango
-いたい (itai) - Dolorido
-いま (ima) - Agora
-いぬ (inu) - Cão
-いえ lar 
-
-わ　ら や　ま　は　な　た　さ　か　あ
-を　り　ゆ　み　ひ　に　ち　し　き　い
-ん　る　よ　む　ふ　ぬ　つ　す　く　う
-　　れ　　　め　へ　ね　て　せ　け　え
-　　ろ　　　も　ほ　の　と　そ　こ　お
-
-U う
-うさぎ (Usagi) - Coelho
-うどん (Udon) - Macarrão japonês
-うまい (Umai) - Delicioso
-うち (Uchi) - Casa
-うみ (Umi) - Mar
-うんてん (Unten) - Dirigir
-うみねこ (Umineko) - Gaivota
-うさぎだいこん (Usagi daikon) - Rabanete japonês
-うえき (Ueki) - Arbusto
-うわさ (Uwasa) - Rumor
-
-ワ　ラ　ヤ　マ　ハ　ナ　タ　サ　カ　ア
-ウ　リ　ユ　ミ　ヒ　ニ　チ　シ　キ　イ
-ン　ル　ヨ　ム　フ　ヌ　ツ　ス　ク　ウ
-　　レ　　　メ　ヘ　ネ　テ　セ　ケ　エ
-　　ロ　　　モ　ホ　ノ　ト　ソ　コ　オ
-
-Wa Ra Ya Ma Ha Na Ta   Sa  Ka A 
-Wo Ri Yu Mi Hi Ni Ti 　Shi Ki I 
-NN Ru Yo Mu Fu Nu Tsu  Su  Ku U 
-   Re    Me He Ne Te   Se  Ke E 
-   Ro    Mo Ho No To   So  Ko O 
-
-Su ス
-
-スイッチ (suitchi) - Interruptor
-
-ストーブ (sutōbu) - Fogão
-ストック (sutokku) - Estojo
-ストーク (sutōku) - Stoke (em inglês)
-ストークオン (sutōku on) - Ligado, em inglês informal
-ストークホールド (sutōkuhōrudo) - Estrangulamento (em luta livre)
-ストークバイストーク (sutōkubaisutōku) - Compra e venda
-ストークブローカー (sutōkuburōkā) - Corretor de valores
-ストークス (sutōkusu) - Stokes (um nome próprio em inglês)
-ストークズ (sutōkuzu) - Strokes (um termo relacionado à pintura ou desenho)
-ストークストレーニング (sutōkusutorēningu) - Treinamento de estocagem
-ストークニュートン (sutōkunyūton) - Stokes (uma unidade de viscosidade)
-ストークペア (sutōkupea) - Par de Stokes (em física de partículas)
-ストークレンジ (sutōkurenji) - Alcance de Stokes (em análise espectral)
-ストーリー (sutōrī) - História
-ストーリーテリング (sutōrīteringu) - Narração de histórias
-ストップ (sutoppu) - Parar
-ストライプ (sutoraipu) - Listra
-ストレス (sutoresu) - Estresse
-
-スープ (suupu) - Sopa
-スーツ (suutsu) - Terno
-スーパー (suupaa) - Supermercado
-スーツケース (suutsukeesu) - Mala de viagem
-スーパーマーケット (suupaamaaketto) - Supermercado
-スーツケース (suutsukeesu) - Mala de viagem
-
-Ri リ
-
-RiN リノ
-リノリウム (rinoriumu) - Linóleo
-リノベーション (rinobēshon) - Renovação
-リノベーションハウス (rinobēshon hausu) - Casa renovada
-リノベーション工事 (rinobēshon kōji) - Trabalhos de renovação
-リノリン (rinorin) - Liner (em inglês, revestimento ou forro)
-リノベーションビジネス (rinobēshon bijinesu) - Negócio de renovação
-リノベーションマンション (rinobēshon manshon) - Apartamento renovado
-リノベーション業者 (rinobēshon gyōsha) - Empreiteira de renovação
-リノベーション市場 (rinobēshon ichiba) - Mercado de renovação
-リノベーション計画 (rinobēshon keikaku) - Plano de renovação
-
-う corvo-marinho
-えんぴつ lápis
-おさけ interesse
-おちゃ chá
-
-かぜ frio
-かばん bolsa
-きたない sujo
-きっぷ bilhete
-きゅう nove
-きょう hoje
-くもり nublado 
-け cabelo
-こんばんは、じゃあね。Boa noite, até então
-
-さんは Senhor
-し morte
-す vinagre
-せなか Senaka 
-そと Fora
-
-Inglês > Japonês 
-
-
-
 Frases
 
 A
@@ -2219,189 +2202,25 @@ YoN
 YoRoShiKu > nice to meet you
 YoRu > night
 
-Categorias ＞
-
-Animais 
-Casa 
-Cores :
-Corpo 
-Estacoes do Ano
-Números :
-Tempo 
-
 Portugues
-
-Abacate - アボカド (abokado)
-Abacaxi - パイナップル (painappuru)
-Abandonado - 放棄された (hōki sa reta)
-Abandonar - 放棄する (hōki suru)
-Abaixo - 下 (shita)
-Abajur - ライト (raito)
-Abertura - オープニング (ōpuningu)
-Abóbora - カボチャ (kabocha)
-Abrigo - 避難所 (hinanjo)
-Abrir - 開く (hiraku)
-Absorver - 吸収する (kyūshū suru)
-Abundante - 豊富な (hōfu na)
-Academia - アカデミー (akademī)
-Ação - 行動 (kōdō)
-Acalmar - 静める (shizumeru)
-Açúcar - 砂糖 (satō)
-Acessível - アクセス可能 (akusesu kanō)
-Acessório - アクセサリー (akusesarī)
-Aço - 鋼 (hagane)
-Acompanhar - 一緒に行く (issho ni iku)
-Aconchegante - 居心地が良い (igokochi ga ii)
-Acontecer - 起こる (okoru)
-Acorde - アラーム (arāmu)
-Acreditar - 信じる (shinjiru)
-Açude - ダム (damu)
-Adeus - さようなら (sayōnara)
-Adiar - 延期する (enki suru)
-Adiantado - 進んだ (susunda)
-Adiantar - 進む (susumu)
-Adicionar - 追加する (tsuika suru)
-Admirar - 賞賛する (shōsan suru)
-Adolescente - 10代 (jūdai)
-Adotar - 採用する (saiyō suru)
-Adversário - 対戦相手 (taisen aite)
-Advogado - 弁護士 (bengoshi)
-Aéreo - 空気の (kūki no)
-Afastado - 遠く離れた (tōku hanareta)
-Afastar - 遠ざける (tōzakeru)
-Afável - 愛想の良い (aisō no yoi)
-Afago - 撫でる (naderu)
-Afamado - 有名な (yūmei na)
-Afeto - 愛情 (aijō)
-Afetuoso - 愛情深い (aijō-bukai)
-Afrontar - 直面する (chokumen suru)
-Agarrar - 把握する (haaku suru)
-Agendar - スケジュールする (sukejūru suru)
-Agilidade - 敏捷性 (binshōsei)
-Agir - 行動する (kōdō suru)
-Aglomerado - 集合的 (shūgō-tekina)
-Agonia - 苦悶 (kumon)
-Agonizar - 苦しむ (kurushimu)
-Agosto - 8月 (hachigatsu)
-Agrado - 喜び (yorokobi)
-Agrícola - 農業の (nōgyō no)
-Água - 水 (mizu)
-Águia - タカ (taka)
-Aguçar - 研ぐ (togu)
-Aguardar - 待つ (matsu)
-Águia - タカ (taka)
-Agulha - 針 (hari)
-Ah - ああ (ā)
-Ainda - まだ (mada)
-Aipim - ヤム (yamu)
-Ajoelhar - 跪く (hizamazuku)
-Ajudar - 助ける (tasukeru)
-Ajustado - 調整された (chōsei sa reta)
-Ajustar - 調整する (chōsei suru)
-Alameda - アベニュー (abenyū)
-Alarde - 騒々しい (sōzōshii)
-Alarme - アラーム (arāmu)
-Alcachofra - アーティチョーク (ātichōku)
-Alcançar - 届く (todoku)
-Alcance - 範囲 (han'i)
-Álcool - アルコール (arukōru)
-Alegria - 喜び (yorokobi)
-Alegrar - 喜ばせる (yorokobaseru)
-Alegrar-se - 喜ぶ (yorokobu)
-Aleijado - 身体障害者 (shintai shōgai-sha)
-Aleijar - 障害を与える (shōgai o ataeru)
-Aleitar - ミルクをあげる (miruku o ageru)
-Alento - 息吹 (ibuki)
-Alerta - 警戒 (keikai)
-Aletria - アレトリア (aretoria)
-Alga - 海藻 (kaisō)
-Algema - 手錠 (tejō)
-Algemar - 手錠をかける (tejō o kakeru)
-Algo - 何か (nanika)
-Alguém - 誰か (dareka)
-Alguém - 誰か (dareka)
-Alheio - 他人の (tanin no)
-Ali - そこに (soko ni)
-Aliás - ちなみに (chinami ni)
-Alicerce - 基礎 (kiso)
-Alicerçar - 基礎を築く (kiso o kizuku)
-Alimentar - 養う (yashinau)
-Alinhado - 整列した (seiretsu shita)
-Alinhar - 整列させる (seiretsu saseru)
-Aliás - ちなみに (chinami ni)
-Aliança - 結婚指輪 (kekkon yubiwa)
-Alívio - 安心 (anshin)
-Alimentação - 食べ物 (tabemono)
-Alimentar - 養う (yashinau)
-Alimento - 食品 (shokuhin)
-Alisar - 平らにする (tairanisuru)
-Aliviar - 和らげる (yawarageru)
-Alívio - 安堵 (ando)
-Alívio - 安心 (anshin)
-Aliás - ところで (tokorode)
-Almejar - 切望する (setsubō suru)
-Alojamento - 宿泊施設 (shukuhaku shisetsu)
-Alongar - 伸ばす (nobasu)
-Altamente - 非常に (hijō ni)
-Alterar - 変更する (henkō suru)
-Alternar - 交互にする (kōgo ni suru)
-Alteza - 高貴 (kōki)
-Alto - 高い (takai)
-Altura - 高さ (takasa)
-Alugado - レンタルされた (rentaru sa reta)
-Alugar - 貸し出す (kashidasu)
-Aluguel - レンタル (rentaru)
-Alusão - ほのめかし (honomikashi)
-Alvejante - 漂白剤 (hyōhakuzai)
-Alvejar - 狙う (nerau)
-Amadurecer - 熟す (jukusu)
-Amamentar - 授乳する (junyū suru)
-Amargo - 苦い (nigai)
-Amarrado - 縛られた (shibara reta)
-Amarração - 結び目 (musubi me)
-Amarrar - 縛る (shibaru)
-Amauri - アマウリ (amauri)
-Amável - 優しい (yasashii)
-Amazona - アマゾン (amazon)
-Ambicioso - 野心的な (yashinteki na)
-Ambiente - 環境 (kankyō)
-Ambos - 両方 (ryōhō)
-Ambulância - 救急車 (kyūkyūsha)
-Ameaça - 脅威 (kyōi)
-Ameaçador - 脅迫的な (kyōhaku-teki na)
-Ameaçar - 脅す (odokasu)
-Amêndoa - アーモンド (āmondo)
-Ameno - 平和な (heiwa na)
-Amigo - 友達 (tomodachi)
-Amigo - 仲間 (nakama)
-Amizade - 友情 (yūjō)
-Amo - 愛してる (aishiteru)
-Amor - 愛 (ai)
-Amoroso - 愛情深い (aijō-bukai)
-Amparo - 援助 (enjo)
-Ampla - 広い (hiroi)
-Ampla - 広範囲 (kōhan'i)
-Ampla - ワイド (waido)
 
 ---Letra A---
 -Adeus
 -Alto
 -Amizade
--Amor =  O amor é a linguagem universal.
-愛は普遍的な言語です
-(Ai wa fuhen-teki na gengo desu.)
+-Amor =  
 
 ---Letra B---
 -Baixo
--Beleza = A beleza da natureza é indescritível.
-自然の美しさは言葉では説明できません。 
-(Shizen no utsukushi-sa wa kotoba de wa setsumei dekimasen.)
+-Beleza = 
 -Buraco
 
 ---Letra C---
 Calor
 Chuva
+Círculo = 円 En
 Coragem
+
 ---Letra D---
 Desejo
 Depois
@@ -2439,15 +2258,24 @@ Pequeno
 Personagem 
 Pes
 Prosperidade
+
+---Letra Q---
+Quadrado = 正方形 Seihokei
 Qualidade
 Respeito
+
 ---Letra S---
 Saúde
 Sol
+
 ---Letra T---
 Trabalho
 Traseira
+Tutorial = チュートリアル Chutariaru
+
+---Letra U---
 União
+
 ---Letra V---
 Verdade
 Vermelho
@@ -2456,11 +2284,127 @@ Xícara
 Yuumei
 Zelo
 
-Japones > Portugues
+Japonês > Português 
 
+A あ
+あか (aka) - Vermelho
+あかるい (akarui) - Brilhante
+あめ (ame) - Chuva
+あなた (anata) - Você
+あお (ao) - Azul
+ありがとう (arigatou) - Obrigado
+あし (ashi) - Pé
+あした (ashita) - Amanhã
+あそこ (asoko) - Lá
+あたたかい (atatakai) - Quente
 
+I い
+いえ (ie) - Casa
+いく (iku) - Ir
+いけ (ike) - Lago
+いし (ishi) - Pedra
+いす (isu) - Cadeira
+いち (ichi) - Um
+いちご (ichigo) - Morango
+いたい (itai) - Dolorido
+いま (ima) - Agora
+いぬ (inu) - Cão
+いえ lar 
 
+わ　ら や　ま　は　な　た　さ　か　あ
+を　り　ゆ　み　ひ　に　ち　し　き　い
+ん　る　よ　む　ふ　ぬ　つ　す　く　う
+　　れ　　　め　へ　ね　て　せ　け　え
+　　ろ　　　も　ほ　の　と　そ　こ　お
 
+U う
+うさぎ (Usagi) - Coelho
+うどん (Udon) - Macarrão japonês
+うまい (Umai) - Delicioso
+うち (Uchi) - Casa
+うみ (Umi) - Mar
+うんてん (Unten) - Dirigir
+うみねこ (Umineko) - Gaivota
+うさぎだいこん (Usagi daikon) - Rabanete japonês
+うえき (Ueki) - Arbusto
+うわさ (Uwasa) - Rumor
+
+ワ　ラ　ヤ　マ　ハ　ナ　タ　サ　カ　ア
+ウ　リ　ユ　ミ　ヒ　ニ　チ　シ　キ　イ
+ン　ル　ヨ　ム　フ　ヌ　ツ　ス　ク　ウ
+　　レ　　　メ　ヘ　ネ　テ　セ　ケ　エ
+　　ロ　　　モ　ホ　ノ　ト　ソ　コ　オ
+
+Wa Ra Ya Ma Ha Na Ta   Sa  Ka A 
+Wo Ri Yu Mi Hi Ni Ti 　Shi Ki I 
+NN Ru Yo Mu Fu Nu Tsu  Su  Ku U 
+   Re    Me He Ne Te   Se  Ke E 
+   Ro    Mo Ho No To   So  Ko O 
+
+Su ス
+
+スイッチ (suitchi) - Interruptor
+
+ストーブ (sutōbu) - Fogão
+ストック (sutokku) - Estojo
+ストーク (sutōku) - Stoke (em inglês)
+ストークオン (sutōku on) - Ligado, em inglês informal
+ストークホールド (sutōkuhōrudo) - Estrangulamento (em luta livre)
+ストークバイストーク (sutōkubaisutōku) - Compra e venda
+ストークブローカー (sutōkuburōkā) - Corretor de valores
+ストークス (sutōkusu) - Stokes (um nome próprio em inglês)
+ストークズ (sutōkuzu) - Strokes (um termo relacionado à pintura ou desenho)
+ストークストレーニング (sutōkusutorēningu) - Treinamento de estocagem
+ストークニュートン (sutōkunyūton) - Stokes (uma unidade de viscosidade)
+ストークペア (sutōkupea) - Par de Stokes (em física de partículas)
+ストークレンジ (sutōkurenji) - Alcance de Stokes (em análise espectral)
+ストーリー (sutōrī) - História
+ストーリーテリング (sutōrīteringu) - Narração de histórias
+ストップ (sutoppu) - Parar
+ストライプ (sutoraipu) - Listra
+ストレス (sutoresu) - Estresse
+
+スープ (suupu) - Sopa
+スーツ (suutsu) - Terno
+スーパー (suupaa) - Supermercado
+スーツケース (suutsukeesu) - Mala de viagem
+スーパーマーケット (suupaamaaketto) - Supermercado
+スーツケース (suutsukeesu) - Mala de viagem
+
+Ri リ
+
+RiN リノ
+リノリウム (rinoriumu) - Linóleo
+リノベーション (rinobēshon) - Renovação
+リノベーションハウス (rinobēshon hausu) - Casa renovada
+リノベーション工事 (rinobēshon kōji) - Trabalhos de renovação
+リノリン (rinorin) - Liner (em inglês, revestimento ou forro)
+リノベーションビジネス (rinobēshon bijinesu) - Negócio de renovação
+リノベーションマンション (rinobēshon manshon) - Apartamento renovado
+リノベーション業者 (rinobēshon gyōsha) - Empreiteira de renovação
+リノベーション市場 (rinobēshon ichiba) - Mercado de renovação
+リノベーション計画 (rinobēshon keikaku) - Plano de renovação
+
+う corvo-marinho
+えんぴつ lápis
+おさけ interesse
+おちゃ chá
+
+かぜ frio
+かばん bolsa
+きたない sujo
+きっぷ bilhete
+きゅう nove
+きょう hoje
+くもり nublado 
+け cabelo
+こんばんは、じゃあね。Boa noite, até então
+
+さんは Senhor
+し morte
+す vinagre
+せなか Senaka 
+そと Fora
 
 うち (uchi) - Casa
 うみ (umi) - Mar
@@ -4071,6 +4015,10 @@ Kanji :
 工 Artifício + 場 Lugar = Fábrica 
 
 図書館と工場
+
+Curso Japonês 
+
+
 Abertura Cardfight Vanguard
 
 IMEEJI ga kasanaru 
