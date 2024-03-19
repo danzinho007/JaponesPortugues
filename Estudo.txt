@@ -1,3 +1,8 @@
+Sites :
+
+https://context.reverso.net/traducao/
+https://translate.google.com.br/?hl=pt-BR&sl=pt&tl=ja&op=translate
+
 Indice :
 
 Alfabeto : 22
@@ -226,6 +231,8 @@ NN Ru Yo Mu Fu Nu Tsu  Su  Ku U
 まみむめも　やゆよつ
 や　ゆ　よ
 らりるれろ
+
+Revisão 1 
 
 03 = 参 San
 04 = 四 Yon
@@ -457,6 +464,33 @@ Sucu = Jusu
 Sushi = 寿司 OSuShi
 Vegetariano = ベジタリアン
 
+---
+Revisão 6
+
+Aisukyandi = アイスキャンディー Picolé
+Kanshi = Triste
+Nureteiru = Molhado
+Okii = 大きい Grande
+Oribu oiru = オリーブオイル Azeite
+Pai = Torta
+Pasta = Macarrão
+Suitsu = スイーツ Doces
+
+Azeite = オリー ブオイル Oribu oiru
+Barba = Agohige
+Barriga = Onaka
+Biscoito = クッキー Kukki
+Doces = Suitsu
+Fácil = Kantan'na
+Lábios = Kuchibiru
+Macarrão = パスタ 
+Maionese = マヨネーズ Mayonezu
+Molhado = 濡れている Nureteiru
+Mostarda (amarelo) = Masutado 
+Talharim = タリアテッレ Tariaterre
+Triste = Kanashi
+Umbigo = へそ Heso
+
 -
 --
 ---
@@ -525,6 +559,32 @@ Ruim = 悪い
 Seco = ドライ
 Triste = 悲しい Kanashi
 Velho = 古い Furui
+
+---
+Adjetivos 2 
+
+Chamingu na = 
+Fuan'na =
+Fushojiki na = 不正直な Desonesto
+Ijiwaruna = 
+Isho kem mena = Trabalhador
+Karui = Leve
+Konran shite iru = 混乱している Confuso
+Omoi = 
+Osoi = Lento
+Osoroshi = 
+Taidana = Preguiçoso
+
+Adorável = Kawai
+Ansioso = 不安 Fuan'na 
+Confuso = 混乱した
+Desonesto = 不正直な Fushojiki na
+Encantador = チャーミングな Chamingu na
+Fraco = Yowai
+Horrível = 恐ろしい Osoroshii
+Leve = Karui
+Preguiçoso = 怠惰な Taida na
+Trabalhador = Isho kem mena 
 
 ---
 Animais
