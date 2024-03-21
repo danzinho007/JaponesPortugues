@@ -491,6 +491,51 @@ Talharim = タリアテッレ Tariaterre
 Triste = Kanashi
 Umbigo = へそ Heso
 
+---
+Revisão 7
+
+Basutei = バス停 Ponto de ônibus
+Daigaku = 
+Fushojiki na = 不正直な Desonesto
+Gakko = 学校 Escola
+Hayai = 
+Higashi = 
+Issho kem mena = 一生 Trabalhador
+Jimu = ジム Academia
+Kashu = 歌手 Cantor
+Kissaten = 
+Koen = 公園 Parque
+Kuko = 
+Migi = 
+Minami = 南 Sul
+Roketto = ロケット Foguete
+Shiro = 城 Castelo
+Shiyakusho = 市役所 Prefeitura
+Supamaketto = スーパーマーケット Supermercado
+Taidana = 
+Toshi = 都市 Cidade
+Uchu hiko shi = 宇宙飛行士 Astronauta
+Yakkyoku = 薬局 Farmácia
+Yubengango = 
+
+Academia = ジム Jimu
+Ansioso = 不安
+Arraia = Ei
+Desonesto = 不正直な Fushojiki Na
+Foguete = ロケット Roketto
+Fotógrafo = 写真家 Shashin-ka
+Longe = 遠い Koi
+Padaria = ベーカリー Bekari
+Parque = 公園 Koen
+Polvo = タコ Tako
+Posto de gasolina = ガソリンスタンド Gasorinsutando
+Prefeitura = 市役所 Shiyakusho
+Programador = プログラマー Purugurama
+Trabalhador = 一生 Issho
+
+---
+Revisão 8
+
 -
 --
 ---
@@ -585,6 +630,32 @@ Horrível = 恐ろしい Osoroshii
 Leve = Karui
 Preguiçoso = 怠惰な Taida na
 Trabalhador = Isho kem mena 
+
+---
+Adjetivos 3
+
+Bakana = バカ Bobo
+Daitan'na = 
+Gankona = 
+Hazukashigari no = 恥ずかしがり屋 Tímido
+Hikan-tekina = 悲観的な Pessimista
+Kashikoi = Inteligente
+Kofun shite iru = 興奮し Animado
+Kyomigaru = 興味 Curioso
+Mokushina = 
+Nemui = 
+Omoshiroi = 面白い Engraçado
+Osharena = おしゃれな Chique
+Rakukanteki na = Otimista
+Shinsetsuna = Amigável
+Sozoshi = 
+Tsukarete iru = Cansado
+Yakunitatsu = 役に立つ Útil
+
+Cansado = 疲れ Tsukare + 
+Inteligente = Kashikoi
+Otimista = 楽観的 Rakukanteki na
+Tímido = Hakuzashigari no
 
 ---
 Animais
@@ -1241,6 +1312,17 @@ Rodo = スキージ Gomu zo kin
 Vassoura = ほうき
 
 ---
+Localização
+
+Soko = Lá
+Soto = Fora
+
+CEP = 郵便番号 Yubengango
+Direita = 右 Migi
+Endereço = 住所 Jusho
+Rua = 通り Tori
+
+---
 Lugares :
 
 Bekari = Padaria
@@ -1474,6 +1556,24 @@ Namorado = 彼氏 Kareshi
 Noiva = Shinpu / 花嫁 Hanayome ( ? )
 Noivo = 新郎 Shinro
 Vizinho = Rinjin / 近所の人 ( ? )
+
+---
+Profissões 
+
+Haisha = 歯医者 Dentista
+Kashu = 歌手 Cantor
+Kenchikka = 建築家 Arquiteto
+Shashin-ka = Fotógrafo
+Uchu Hiko-shi = 宇宙飛行士 Astronauta
+
+Cantor = 歌手 Kashu
+Dentista = 歯医者 Haisha
+Fotógrafo = 写真家 Shashin-ka
+Jardineiro = 庭師 Niwashi
+Professor = 教師 Kyoshi
+Programador = プログラマー Purugurama
+Vendedor = セールスマン Seresuma
+Veterinário = 獣医 Jui
 
 ---
 Profissões 2 :
