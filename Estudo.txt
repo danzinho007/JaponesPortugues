@@ -1091,6 +1091,40 @@ Torradeira = トースター Tosuta
 Xícara = Tikappu / カップ Kappu
 
 ---
+Crianças
+
+Asobiba = 遊び場 Parquinho
+Bebibeddo = Berço
+Bebika = Carrinho de bebê
+Bebipauda = 
+Garagara = Chocalho
+Honyu bin =
+Kureyon = 
+Mizudeppo = Pistola de água
+Nendo =  Massa de modelar
+Ningyo = 人形 Boneca
+Omocha = 
+Omocha no kuruma = Carrinho de brinquedo
+Omutsu = Fralda
+Oshaburi = おしゃぶり Chupeta
+Pasuru = Quebra-cabeças
+Tedi bea = テディベア Urso de pelúcia
+Tsumiki = 積み木 Bloco de montar
+U-ettotishu = Lenço umedecido
+
+Blocos de montar = Tsumiki
+Boneca = 人形 Ningyo
+Carrinho de bebê = ベビーカー Bebika
+Chocalho = Garagara
+Chupeta = Oshaburi
+Fralda = Omutsu
+Lençol umedecido = U-ettotishu
+Mamadeira = 哺乳瓶 Honyu bin
+Massa de modelar = Nendo
+Pistola de água = 水鉄砲 Mizudeppo
+Talco = ベビーパウダー Bebi pauda
+
+---
 Dias da semana :
 
 Getsuyobi = 月曜日 Segunda
@@ -1310,6 +1344,31 @@ Lata de Lixo = ごみ箱
 Máquina de lavar roupa = 洗濯機
 Rodo = スキージ Gomu zo kin
 Vassoura = ほうき
+
+---
+Legumes 
+
+Bitto = Beterraba
+Endo = エンドウ Ervilha
+Hayatori = Chuchu
+Jagaimo = Batata
+Nasu = Berinjela
+Nin'niku = Alho
+Ninjin = ニンジン Cenoura
+Retasu = Alface
+Rukkora = Rucula
+Shoga = ショウガ Gengibre
+Tamanegi = Cebola
+Tomorokoshi = Milho
+
+Batata = ジャガイモ Jagaimo
+Beterraba = ビーツ Bitto
+Cebola = 玉ねぎ Tamanegi
+Cenoura = Ninjin
+Chuchu = Hayatori
+Ervilha = エンドウ Endo
+Milho = トウモロコシ Tomorokoshi
+Rucula = 
 
 ---
 Localização
