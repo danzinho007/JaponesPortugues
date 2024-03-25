@@ -908,6 +908,28 @@ Yokushitsu = バスルーム Banheiro
 Yuka = Chão 
 
 ---
+Clima
+
+Ame no = Chuvoso
+Atatakai = Morno
+Atsui = Quente
+Hareta = Ensolarado
+Kanso = Seco
+Kaze ga tsuyoi = Ventoso
+Kiri ga kakatta = 
+Kumori = Nublado
+Samui = Frio
+Shimeppoi = Úmido
+Yuki no = Nevado
+
+Chuvoso = Ame no
+Morno = Atatakai
+Nevado = Yuki no
+Nublado = Kumori
+Seco = 乾燥 Kanso
+Ventoso = 風が強い Kaze ga tsuyoi
+
+---
 Comidas :
 
 Bigan = Vegano
@@ -1319,6 +1341,32 @@ Melão = メロン Meron
 Noz = Kurumi / ナット Natto
 Pistache = ピスタチオ
 Tangerina = タンジェリン Tangerin
+
+---
+Hospital
+
+Bakuteria = バクテリア Bactéria
+Byoki = Doença
+Chusha = Injeção
+Kenko = Saúde
+Kossetsu = 骨折 Fratura
+Matsubazue = 松葉杖 Muleta
+Ninshin = Gravidez
+Sosho = Ferida
+Shujutsu = 
+Sutoreccha = Maca
+Yakedo = Queimadura
+
+Bactéria = 
+Doença = Byoki
+Fratura = 骨折 Kossetsu
+Gravidez = Ninshin
+Injeção = Chusha
+Maca = ストレッチャー Sutoreccha
+Muleta = 松葉杖 
+Ninshin = Gravidez
+Saúde = Kenko
+Vírus = ウイルス Uirusu
 
 ---
 Lavanderia :
@@ -1891,6 +1939,54 @@ Pirulito = ロリポップ Roripoppu
 Salada de Frutas = フルーツサラダ Furutsusarada
 Sorvete = アイスクリーム Aisukurimu
 Torta = パイ Pai
+
+---
+Sentimentos :
+
+Chie = 
+Fuan = Ansiedade
+Ikari = Raiva
+Issho = Vida
+Kanashimi = 悲しみ Tristeza
+Kazoku = 家族 Família
+Kibo = Esperança
+Netami = ねたみ Inveja
+Nodo no kawaki = 喉の渇き Sede
+Osore = Medo
+Seiko = Sucesso
+Shiawase = 
+Ue = Fome
+Un = 
+Yujo =
+
+Ansiedade = 不安 Fuan
+Inveja = Netami
+Medo = Osore
+Paz = Heiwa
+
+---
+Sintomas :
+
+Fukutsu = Dor de estômago
+Hatsunetsu = Febre
+Itami = Dor
+Jitsu = Dor de ouvido
+Keiren = Cólica
+Kushami = Espirro
+Nodonoitami = 
+Oto = 
+Seki = Tosse
+Shisshin = Desmaio
+Shitsu = Dor de dente
+Zutsu = Dor de cabeça
+
+Cólica = Keiren
+Desmaio = Shisshin
+Dor de dente = Shitsu
+Dor de garganta = Nodonoitami
+Dor de ouvido = 
+Espirro = Kushami
+Febre = 発熱 Hatsunetsu 
 
 ---
 Tempo :
