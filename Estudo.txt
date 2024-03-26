@@ -1158,6 +1158,33 @@ Doyoubi = 土曜日 Sábado
 Nichiyobi = 日曜日　Sunday Domingo
 
 ---
+Doenças :
+
+Arerugi = Alergia
+Chusuien = Apendicite
+Domyaku kobu = Aneurisma
+Gan = Câncer
+Haien = 肺炎 Pneumonia
+Hifuen = 皮膚炎 Dermatite
+Infuruenza = Gripe
+Kansen = Infecção
+Kaze = Resfriado
+Shokuchudoku = Intoxicação alimentar
+Tonyo-byo = 糖尿病 Diabetes
+Utsubyo = Depressão
+Zensoku = Asma
+
+Alergia = アレルギー Arerugi
+Apendicite = 虫垂炎 Chusuien
+Asma = Zensoku
+Depressão = うつ病 Utsubyo
+Dermatite = 皮膚炎 Hifuen
+Diabetes = 糖尿病 Tonyo-byo
+Gripe = Infuruenza
+Infecção = 感染 Kansen
+Pneumonia = Haien
+
+---
 Esportes :
 
 Bareboru = バレーボール Voleibol
@@ -1634,6 +1661,42 @@ Hyaku man = 百万 1 Milhão
 Ju Oku = 十億 1 Bilhão
 Chou = 兆 1 Trilhão 
 
+---
+Orgãos :
+
+Boko = Bexiga
+Chõ = Intestino
+Domyaku = Artéria
+Hai = Pulmão
+Hifu = Pele
+Jinzo = Rim
+Jomyaku = 静脈 Veia
+Kanzo = 肝臓 Fígado
+Kiniku = Músculo
+Kokkaku = Esqueleto
+No = Cérebro
+Ranso = 卵巣 Ovário
+Shikyu = 子宮 Útero
+Shinzo = Coração
+Suizo = Pâncreas
+Zugaikotsu = 
+
+Artéria = Domyaku
+Bexiga = Boko
+Cérebro = No
+Coração = Shinzo
+Esqueleto = Kojkaku
+Fígado = 肝臓 Kanzo
+Intestino = Chõ
+Músculo = Kiniku
+Ovário = Ranso
+Pâncreas = Suizo
+Pele = Hifu
+Pulmão = Hai
+Rim = Jinzo
+Veia = Jomyaku
+
+---
 Pessoas :
 
 Dansei-tachi = Homens
