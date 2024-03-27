@@ -1305,6 +1305,36 @@ Sogra = 義理の母
 Sogro = Giri no Chichi 義父
 
 ---
+Farmácia :
+
+Arukõrujeru = アルコールジェル Álcool em Gel
+Asupirin = アスピリン Aspirina
+Biku-yo supure = Spray Nasal
+Bitamin = ビタミン Vitamina
+Hotai = 包帯 Curativo
+Jozai = 錠剤 Comprimido
+Kapuseru = カプセル Capsula
+Kessei = Soro
+Ko ensho-zai = 抗炎症剤 Anti-inflamatório
+Masuku = Mascara
+Nanko = Pomada
+Shiroppu = シロップ剤 Xarope
+Yaku = Medicamento
+
+Álcool em gel = アルコールジェル Arukõrujeru 
+Anti-inflamatório = Ko ensho-zai
+Aspirina = アスピリン Asupirin
+Capsula = カプセル Kapuseru
+Curativo = 包帯 Rotai
+Jozai = Comprimido
+Medicamento = Yaku
+Pomada = Nanko
+Soro = Kessei
+Spray Nasal = Biku-yo supure 
+Vitamina = ビタミン Bitamin
+Xarope = シロップ剤 Shiroppu-zai
+
+---
 Frutas :
 
 Budo = Uva
@@ -1394,6 +1424,36 @@ Muleta = 松葉杖
 Ninshin = Gravidez
 Saúde = Kenko
 Vírus = ウイルス Uirusu
+
+---
+Insetos :
+
+Ari = Formiga
+Batta = Gafanhoto
+Chõ = Borboleta
+Gokiburi = ゴキブリ Barata
+Hachi = Abelha
+Hotaru = Vagalume
+Kabutomushi = Besouro
+Korogi = コオロギ Grilo
+Kumo = Aranha
+Nomi = ノミ Pulga
+Sasori = Escorpião
+Tentochu = Joaninha
+Tentomushi = テントウムシ Joaninha
+
+Abelha = Hachi
+Aranha = Kumo
+Barata = ゴキブリ Gokiburi
+Besouro = Kabutomushi
+Borboleta = Cho 
+Escorpião = Sasori
+Formiga = Ari
+Gafanhoto = Batta
+Grilo = コオロギ Korogi
+Joaninha = てんとう Tentomushi
+Pulga = ノミ Nomi
+Vagalume = Hotaru
 
 ---
 Lavanderia :
