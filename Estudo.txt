@@ -1619,6 +1619,36 @@ Novembro = 十一月 jūichigatsu
 Dezembro = 十二月 jūnigatsu
 
 ---
+Música :
+
+Akodion = Acordeão
+Baiorin = Violino
+Chero = チェロ Violoncelo
+Doramu = Bateria
+Fue = Flauta
+Gita = Violão
+Hapu = Harpa
+Maiku = マイク Microfone
+Okesutora = Orquestra
+Ongaku = Música
+Shikisha = Maestro
+Toranpetto = トランペット Trompete
+
+Acordeão = アコーディオン Akodion
+Bateria = ドラム Doramu
+Flauta = 
+Harpa = 
+Maestro = 指揮者 Shikisha
+Microfone = マイク Maiku
+Música = 
+Piano = ピアノ Piano
+Saxofone = サクソフォン Sakusofon
+Trompete = トランペット Toranpetto
+Violão = 
+Violino = バイオリン Baiorin
+Violoncelo = チェロ Chero
+
+---
 Natureza 
 
 Ame = Chuva
@@ -1755,6 +1785,32 @@ Pele = Hifu
 Pulmão = Hai
 Rim = Jinzo
 Veia = Jomyaku
+
+---
+Placas :
+
+Eigyochu = 営業中 Aberto
+Erebeta = エレベーター Elevador
+Fudokoto = Praça de Alimentação
+Heiten = 閉店 Fechado
+Ideguchi = 出口 Saída
+Iriguchi = Entrada
+O tearai = Banheiro
+Reji = Caixa
+Shichakushitsu = Provador
+Shuppatsu = 出発 Partida
+Tochaku = Chegada
+
+Aberto = 
+Caixa = Reji
+Chegada = 到着 Tochaku
+Elevador = エレベーター Erebeta
+Entrada = Iriguchi
+Fechado = Heiten
+Partida = 出発 Shuppatsu
+Praça de alimentação = フードコート Fudokoto
+Provadores =
+Saída = 出口 Deguchi
 
 ---
 Pessoas :
