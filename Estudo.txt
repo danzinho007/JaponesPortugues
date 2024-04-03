@@ -1597,6 +1597,68 @@ Nhoque = ニョッキ
 Ravióli = ラビオリNyokki
 Talharim = 麺 Tariaterre
 
+---
+Matemática :
+
+Chohokei = Retângulo
+En = Círculo
+Enchu = Cilindro
+Ensui = Cone
+Fuka = Adição
+Fukasa = 深さ Profundidade
+Haba = 
+Hikizan = Subtração
+Mainasu = Menos
+Kakezan = Multiplicação
+Kakudo = Ângulo
+Purasu = 
+Rippotai =
+Sankakkei = Triângulo 
+Seihokei = 正方形 Quadrado
+Takasa = 高さ Altura
+Warizan = Divisão
+
+Altura = Takasan
+Ângulo = Kakudo
+Cilindro = Enchu
+Círculo = 
+Cone = Ensui
+Cubo = 
+Divisão = 割り勘 Warizan
+Largura = Haba
+Menos = マイナス Mainasu
+Profundidade = 
+Subtração = 引き算 Hikizan
+
+---
+Matérias Escolares :
+
+Bijutsu = Arte
+Bungaku = 文学 Literatura
+Bunpo = 文法 Gramática
+Butsuri = 物理 Física
+Chiri-gaku = 地理学 Geografia
+Kagaku = 科学 Química
+Rekishi = 歴史 História
+Shakai-gaku = Sociologia
+Sugaku = 数学 Matemática
+Taiiku no jugyo = Educação Física
+Tetsugaku = 哲学 Filosofia
+
+Arte = Bijutsu
+Ciências = 
+Educação Física = 
+Filosofia = 哲学 Tetsugaku
+Física = 物理 Butsuri
+Geografia = 地理学 Chiri-gaku
+Gramática = 文法 Bunpo
+História = 歴史 Rekishi 
+Literatura = 文学 Bungaku
+Matemática = 数学 Sugaku
+Química = 科学 Kagaku
+Sociologia = 社会学 Shakai-gaku
+
+---
 Meses :
 
 hachigatsu 八月 = Agosto
@@ -2166,6 +2228,42 @@ Dor de garganta = Nodonoitami
 Dor de ouvido = 
 Espirro = Kushami
 Febre = 発熱 Hatsunetsu 
+
+---
+Supermercado
+
+Biniru-bukuro = Saco plástico
+Debittokado = Cartão de Débito
+Genkin = 現金 Dinheiro
+Kaimono kago = 
+Kamibukuro = 紙袋 Saco de papel
+Kandzume = 
+Kudamono, yasai = 果物, 野菜 Hortifruti
+Kurejittokado = Cartão de Crédito
+Nomimono = 飲み物 Bebida
+Nyuseihin = 乳製品 Produto lácteo
+Pan-ya = パン屋 Padaria
+Reito shokuhin = 冷凍食品 Congelado
+Ryoshu-cho = Recibo
+Seiso yohin = Produto de limpeza
+Shoppingukato = Carrinho
+Sukeru = Balança
+Sunakkugashi = スナック菓子 Lanche
+Tana = Prateleira
+Tsuro = 
+
+Balança = Sukeru
+Bebida = 飲み物 Nomimono
+Carrinho = 
+Cestinha = 
+Congelados = 
+Dinheiro = 現金 Dinheiro
+Enlatados = 
+Lanche = 
+Produto lácteo = 乳製品 Nyuseihin
+Recbi = 
+Saco de papel = 紙袋 Kamibukuro
+Saco plástico = 
 
 ---
 Tempo :
