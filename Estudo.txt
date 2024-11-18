@@ -1849,6 +1849,30 @@ Rim = Jinzo
 Veia = Jomyaku
 
 ---
+Pessoas 
+
+Akachan = bebê
+Kodomotachi = crianças
+Koureicha = idoso
+Mibojin = viúva
+otoko = viúvo
+otokoyamome = viúvo
+otona = adulto
+Rinjinn = vizinho
+Ru-mume-to = colega de quarto 
+shinpu = noiva
+shinrou = noivo
+tin'eija = adolescente
+
+adolescente = tin'eija 
+adulto = otona
+colega de quarto = 
+idoso = 
+noiva = shinpu
+noivo = shinrou
+viúva = 
+
+---
 Placas :
 
 Eigyochu = 営業中 Aberto
