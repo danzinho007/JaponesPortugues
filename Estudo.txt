@@ -570,6 +570,27 @@ Pulseira = ブレスレット
 Relógio = 時計 Udedokei
 Sapatos = 靴
 
+---
+Acessórios 2 :
+
+Binibo = Gorro
+Butsu (Buutsu) = Botas
+Kasa (Cassa) = Guarda-chuva
+Kutsu = Sapatos
+Kutsushita = Meias
+Nekutai = Gravata
+Saifu = Carteira
+Sandaru = Sandálias
+Sukafu (Scaafu) = Cachecol
+Udedoke = Relógio
+
+Botas = Butsu 
+Gorro = Binibo
+Gravata = Nekutai
+Guarda-chuva = Kasa
+Meias = 
+
+---
 Adjetivo :
 
 Atarashi = Novo
@@ -1067,6 +1088,48 @@ Dedo do pé = Sokushi
 Peito = Mune
 Umbigo = Heso
 Unha = Tsume
+
+---
+Cosméticos :
+
+Aburo penshiru = Lápis de Sobrancelha
+Airaina = Delineador
+Aishado = Sombra de olho
+Burashi = Blush
+Fandeshon = Base
+Konpakuto = Pó compacto
+Konshira = Corretivo
+Kuchibeni = Batom
+Masukara = Máscara de cílios
+Meiku burashi = Pincel de maquiagem
+
+Base 
+Batom
+Blush
+Corretivo = Konshira
+Delineador = Airaina
+Máscara de cílios =
+Pincel de maquiagem = Meiku burashi
+
+---
+Cosméticos 2 :
+
+Bodi-yo hoshitsu-sai = Hidratante corporal
+Hando kurimu = Creme para mãos
+Hea ekusutenshon = Aplique de cabelo
+Manikyua = Esmalte
+Meiku otoshi = Removedor de maquiagem
+Pinsetto = Pinça
+Rippu bamu = Hidratante labial
+Tsukematsuge = Cílios postiços
+Tsume-yasuri = Lixa de unha
+Tsumekiri = Cortador de unha
+
+Cílios postiços = 
+Cortador de unha = Tsumekiri
+Creme para mãos = 
+Hidratante corporal = Bodi-yo hoshitsu-zai
+Lixa de unha = 
 
 ---
 Cozinha :
@@ -2111,6 +2174,25 @@ Terno = スーツ Sutsu
 Vestido = ドレス Doresu
 
 ---
+Roupas 2
+
+Bikini = Biquini
+Buraja = Sutiã
+Burifu = Cueca
+Janpusutsu = Macacão
+Pajama = Pijama
+Panti = Calcinha
+Reginsu = Legging
+Suwettoshatsu = Moleton
+Tankutoppu = Regata
+Wanpisu mizugi = Maiõ
+
+Calcinha = Panti
+Moleton = Suwettoshatsu
+Pijama = Tankutoppu
+Regata = 
+
+---
 Sala
 
 Dando = Lareira
@@ -2417,6 +2499,30 @@ Perguntar = 尋ねる Tazuneru
 Receber = 受け取る Uketoru
 Responder = Kotaeru / 返事する Henji suru
 Sentir = 感じる Kanjiru
+
+---
+Verbos 5
+
+Deru = Sair
+Koukai suru = Navegar
+Mawasu = 
+Michibiku = Liderar
+Noboru = 
+Ou = Seguir
+Oyogu = Nadar
+Shigoto ni = Trabalhar
+Tabi suru = Viajar
+Tachiagaru = Ficar de pé 
+Touchaku suru = 
+Ugoku = Mover
+Uten suru = 
+Wataru = Cruzar
+
+Chegar = Touchaku suru
+Dirigir = Utensuru
+Mover = Ugoku
+Nadar = Oyogu
+Seguir = Ou
 
 ---
 Aplicativo Aprender Japonês BNR :
