@@ -1,0 +1,326 @@
+KANJI
+
+RADICAL
+https://db.yamasa.org/ocjs/kanjidic.nsf/SortedByRadicalsAllTHEnglish?OpenView
+
+詳細を表示:一一	１
+詳細を表示:丨丨	１
+詳細を表示:丶丶	
+詳細を表示:丿丿	
+詳細を表示:乙乙	
+詳細を表示:亅亅	
+詳細を表示:二二	２
+詳細を表示:亠亠	２
+詳細を表示:人人	
+詳細を表示:儿儿	２
+詳細を表示:入入	２
+詳細を表示:八八	２
+詳細を表示:冂冂	
+詳細を表示:冖冖	
+詳細を表示:冫冫	２
+詳細を表示:几几	
+詳細を表示:凵凵	
+詳細を表示:刀刀	２
+詳細を表示:力力	
+詳細を表示:勹勹	
+詳細を表示:匕匕	
+詳細を表示:匚匚	
+詳細を表示:匸匸	
+詳細を表示:十十	
+詳細を表示:卜卜
+詳細を表示:卜卜	
+詳細を表示:卩卩	
+詳細を表示:厂厂	
+詳細を表示:厶厶	
+詳細を表示:又又	
+詳細を表示:口口	
+詳細を表示:囗囗	
+詳細を表示:土土	
+詳細を表示:士士	
+詳細を表示:夂夂	
+詳細を表示:夊夊	
+詳細を表示:夕夕	
+詳細を表示:大大	
+詳細を表示:女女	
+詳細を表示:子子	
+詳細を表示:宀宀	
+詳細を表示:寸寸	
+詳細を表示:小小	
+詳細を表示:尢尢	
+詳細を表示:尸尸	
+詳細を表示:屮屮	
+詳細を表示:山山	
+詳細を表示:巛巛	
+詳細を表示:工工	
+詳細を表示:己己
+詳細を表示:己己	
+詳細を表示:巾巾	
+詳細を表示:干干	
+詳細を表示:幺幺	
+詳細を表示:广广	
+詳細を表示:廴廴	
+詳細を表示:廾廾	
+詳細を表示:弋弋	
+詳細を表示:弓弓	
+詳細を表示:彡彡	
+詳細を表示:彳彳	
+詳細を表示:心心	
+詳細を表示:戈戈	
+詳細を表示:戸戸	
+詳細を表示:手手	
+詳細を表示:支支	
+詳細を表示:攴攴	
+詳細を表示:文文	
+詳細を表示:斗斗	
+詳細を表示:斤斤	
+詳細を表示:方方	
+詳細を表示:无无	
+詳細を表示:日日	
+詳細を表示:曰曰	
+詳細を表示:月月
+詳細を表示:月月	
+詳細を表示:人人	
+詳細を表示:木木	
+詳細を表示:欠欠	
+詳細を表示:止止	
+詳細を表示:歹歹	
+詳細を表示:殳殳	
+詳細を表示:母母	
+詳細を表示:比比	
+詳細を表示:毛毛	
+詳細を表示:氏氏	
+詳細を表示:气气	
+詳細を表示:水水	
+詳細を表示:火火	
+詳細を表示:爪爪	
+詳細を表示:父父	
+詳細を表示:片片	
+詳細を表示:牛牛	
+詳細を表示:犬犬	
+詳細を表示:玄玄	
+詳細を表示:玉玉	
+詳細を表示:瓦瓦	
+詳細を表示:甘甘	
+詳細を表示:生生	
+詳細を表示:用用
+詳細を表示:田田	
+詳細を表示:疋疋	
+詳細を表示:疒疒	
+詳細を表示:癶癶	
+詳細を表示:白白	
+詳細を表示:皮皮	
+詳細を表示:皿皿	
+詳細を表示:目目	
+詳細を表示:矛矛	
+詳細を表示:矢矢	
+詳細を表示:石石	
+詳細を表示:示示	
+詳細を表示:禾禾	
+詳細を表示:穴穴	
+詳細を表示:立立	
+詳細を表示:竹竹	
+詳細を表示:米米	
+詳細を表示:糸糸	
+詳細を表示:缶缶	
+詳細を表示:网网	
+詳細を表示:羊羊	
+詳細を表示:羽羽	
+詳細を表示:老老	
+詳細を表示:而而
+詳細を表示:而而	
+詳細を表示:耒耒	
+詳細を表示:耳耳	
+詳細を表示:聿聿	
+詳細を表示:肉、月肉、月	
+詳細を表示:臣臣	
+詳細を表示:自自	
+詳細を表示:至至	
+詳細を表示:舌舌	
+詳細を表示:舛舛	
+詳細を表示:舟舟	
+詳細を表示:艮艮	
+詳細を表示:色色	
+詳細を表示:艸艸	
+詳細を表示:虍虍	
+詳細を表示:虫虫	
+詳細を表示:血血	
+詳細を表示:行行	
+詳細を表示:衣衣	
+詳細を表示:襾襾	
+詳細を表示:見見	
+詳細を表示:角角	
+詳細を表示:言言	
+詳細を表示:谷谷	
+詳細を表示:豆豆
+
+#Kanj i	Rōmaji	Significado
+1会	ai / kai	encontrar, reunião
+2合	ai / gō	combinar, encaixar
+3安	an	barato, pacífico
+4円	en	círculo, iene
+5火	ka	fogo
+6花	ka	flor
+7家	ka	casa
+8学	gaku	estudar
+9気	ki	espírito, energia
+10九	kyū	nove
+11牛	gyū	vaca
+12去	kyo	partir, passado (quando em várias palavras)
+13金	kin	ouro, dinheiro
+14空	kū	céu, vazio
+15来	rai / kuru	vir
+16林	rin	bosque
+17六	roku	seis
+18地	chi	terra
+19天	ten	céu, paraíso
+20店	ten	loja
+21電	den	eletricidade
+22誕	tan	nascer (como em 誕生日 - aniversário)
+23茶	cha	chá
+24昼	chū	meio-dia
+25長	chō	longo, chefe
+26中	chū	meio, centro
+27注	chū	notar, atenção
+28車	sha	carro, veículo
+29社	sha	companhia, sociedade
+30者	sha	pessoa
+31自	ji	si mesmo
+32時	ji	tempo, hora
+33校	kō	escola
+34工	kō	trabalho, construção
+35公	kō	público
+36行	kō / iku	ir
+37高	kō	alto, caro
+38国	koku	país
+39語	go	idioma
+40午	go	meio-dia
+41五	go	cinco
+42後	go	atrás, depois
+43午	go	meio-dia
+44黄	kō	amarelo
+45歩	ho / aru	andar
+46方	hō	direção, maneira
+47北	hoku	norte
+48母	bo / haha	mãe
+49毎	mai	todo, cada
+50万	man	dez mil
+51米	bei / kome	arroz, Estados Unidos
+52目	moku / me	olho
+53右	u / migi	direita
+54	雨	u / ame	chuva
+55	生	sei / shō	vida, nascer
+56	正	sei / shō	correto, justo
+57	声	sei	voz
+58	西	sei / nishi	oeste
+59	青	sei / ao	azul
+60	清	sei	puro, limpo
+61	切	setsu / kiru	cortar
+62	石	seki / ishi	pedra
+63	赤	seki / aka	vermelho
+64	世	sei / yo	mundo
+65	説	setsu	explicar
+66	相	sō	mutuamente, aspecto
+67	足	soku / ashi	pé, perna
+68	多	ta	muito
+69	太	ta	gordo, grosso
+70	台	dai	pedestal, máquina
+71	体	tai	corpo
+72	台	dai	plataforma
+73	竹	chiku	bambu
+74	地	chi	solo
+75	道	dō / michi	caminho
+76	土	do / tsuchi	terra, solo
+77	内	nai	interior
+78	南	nan / minami	sul
+79	二	ni	dois
+80	日	nichi / hi	dia, sol
+81	年	nen / toshi	ano
+82	白	haku / shiro	branco
+83	百	hyaku	cem
+84	発	hatsu / hotsu	emitir, iniciar
+85	品	hin	item, bens
+86	富	fu / tomi	riqueza
+87	分	fun / bun	minuto, dividir
+88	平	hei	plano, paz
+89	返	hen	retornar
+90	勉	ben	esforço
+91	放	hō	soltar, liberar
+92	法	hō	lei, método
+93	北	hoku	norte
+94	被	hi	cobrir, vítima
+95	表	hyō	superfície, expressão
+96	名	mei / na	nome
+97	明	mei / myō	claro, brilhante
+98	目	moku / me	olho
+99	野	ya	campo
+100	来	rai	vir
+古	十	口	antigo
+日	一	田	dia / sol
+白	一	日	branco
+中	丨	口	meio, dentro
+目	一	冂	olho
+回	口	口	girar, trocar
+吉	士	口	sorte
+令	人	マ	comando, ordem
+舟	⼋(curved)	舟 cursiva?	barco
+冉	冖	⼛	lentamente
+旨	丿	日	propósito
+旬	旬	日?	período de 10 dias
+映	日	央	refletir
+昂	日	岡	erguido, elevado
+胃	口	月	estômago
+刑	刂	刑	punição
+科	禾	果	ramo da ciência
+杜	木	土	árvores altas, bosque
+泰	氺	水	tranquilo, grande
+否	口	否	negação
+守	宀	寸	proteger, guardar
+安	宀	女	paz, seguro
+字	宀	子	letra, caractere
+宝	宀	玉	tesouro
+完	宀	元	completo
+害	宀	豈	dano, prejuízo
+家	宀	豕	casa
+室	宀	至	sala, quarto
+宮	宀	呂	palácio, santuário
+実	宀	貫	verdade, real
+定	宀	疋	decidir, fixar
+官	宀	苦	oficial, governo
+宙	宀	由	espaço, cosmos
+宗	宀	示	religião, seita
+察	宀	祭	investigar
+富	宀	畐	riqueza, fortuna
+寄	宀	奇	doar, contribuir
+寝	宀	垂	dormir
+寒	宀	咸	frio
+寝	宀	辰	dormir
+
+Serie 1
+https://www.tufs.ac.jp/common/mlmc/kyouzai/brazil/por/kanji/index.html
+Serie 2
+https://www.tufs.ac.jp/common/mlmc/kyouzai/brazil/por/kanji/2nen.html
+Serie 3
+https://www.tufs.ac.jp/common/mlmc/kyouzai/brazil/por/kanji/3nen.html
+Serie 4
+
+https://x.com/kanjidodia
+
+聖-N1 - 神聖 - しんせい - Santidade, sacralidade, dignidade - #神聖 #ganbarimashou
+
+議-N3 - 議事堂 - ぎじどう - Edificio de dieta - #議事堂
+
+育-N3 - 発育 - はついく - (Fisico) crescimento, desenvolvimento - #発育
+1 Espaço
+
+合-N3 - 合わす - あわす - Unir-se, enfrentar, unir, ser oposto, combinar, conectar, somar, misturar, combinar, - #合わす #japao
+1 espaco
+
+真-N4 - 真相 - しんそう - Verdade, situacao real - #真相
+
+出-N5 - 出くわす - でくわす - Acontecer de encontrar, encontrar - #出くわす
+
+一-N5 - 一別 - いちべつ - Despedida - #一別
+
+何-N5 - 何処か - どこか - Em algum lugar, em algum lugar, em alguns aspectos - #何処か #kanji
+
+大-N5 - 大水 - おおみず - inundar - #大水 #JLPT
